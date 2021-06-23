@@ -53,7 +53,8 @@ source("R/functions.R")
 
 
 The {**BGGM**} R package is a collection of tools for making Bayesian 
-inference in Gaussian graphical models. The methods are organized around two general approaches for Bayesian inference: (1) estimation and (2) hypothesis testing. The computationally intensive tasks (e.g., custom MCMC samplers) are written in `c++` via the `R` package **Rcpp** [@eddelbuettel2011rcpp] and the `c++` library **Armadillo** [@sanderson2016armadillo]. The Bayes factors are computed with the `R` package **BFpack** [@mulder2019bfpack].  There is full support for continuous, binary, ordinal,
+inference in Gaussian graphical models. The methods are organized around two general approaches for Bayesian inference: (1) estimation and (2) hypothesis testing. The computationally intensive tasks (e.g., custom MCMC samplers) are written in `c++`. The Bayes factors are computed with the `R` package **BFpack** 
+(see below).  There is full support for continuous, binary, ordinal,
 and mixed data (via a Gaussian copula graphical model).
  
 
