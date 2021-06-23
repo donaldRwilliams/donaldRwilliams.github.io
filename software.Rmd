@@ -15,6 +15,26 @@ source(file.path("R", "functions.R"))
 library(distilltools)
 ```
 
+```{r metathis, message=FALSE, warning=FALSE, include=FALSE}
+library(metathis)
+meta() %>%
+  meta_description(
+    "About Ella Kaye"
+  ) %>%
+  meta_name("github-repo" = "ellakaye/ellakaye-distill") %>%
+  meta_viewport() %>%
+  meta_social(
+    title = "ELLA KAYE: About Me",
+    url = "https://ellakaye.rbind.io/about",
+    image = "https://ellakaye.rbind.io/images/ella_profile.jpeg",
+    image_alt = "A photo of Ella Kaye",
+    og_type = "website",
+    og_author = c("Ella Kaye"),
+    twitter_card_type = "summary",
+    twitter_creator = "@ellamkaye"
+  )
+```
+
 ## Creator
 
 ### BGGM: Bayesian Gaussian Graphical Models
