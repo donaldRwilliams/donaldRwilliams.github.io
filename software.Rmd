@@ -26,7 +26,7 @@ meta() %>%
   meta_social(
     title = "DRW: Software",
     url = "https://donaldrwilliams.github.io/software.html",
-    image = "https://donaldrwilliams.github.io/images/donny_pic.jpeg",
+    image = "https://donaldrwilliams.github.io/images/donny_pic.png",
     image_alt = "A photo of DRW",
     og_type = "website",
     og_author = c("Donald R. Williams"),
