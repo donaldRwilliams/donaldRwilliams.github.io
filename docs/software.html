@@ -105,10 +105,14 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   <meta property="twitter:description" content="Software that I have developed of the years."/>
 
   <!--/radix_placeholder_meta_tags-->
+  
+  <meta name="citation_reference" content="citation_title=BFpack: Flexible bayes factor testing of scientific theories in r;citation_publication_date=2019;citation_author=Joris Mulder;citation_author=Xin Gu;citation_author=Anton Olsson-Collentine;citation_author=Andrew Tomarken;citation_author=Florian BÃ¶ing-Messing;citation_author=Herbert Hoijtink;citation_author=Marlyne Meijerink;citation_author=Donald R Williams;citation_author=Janosch Menke;citation_author=Jean-Paul Fox;citation_author=BFpack: Flexible bayes factor testing of scientific theories in r"/>
+  <meta name="citation_reference" content="citation_title=Armadillo: A template-based c++ library for linear algebra;citation_publication_date=2016;citation_volume=1;citation_doi=10.21105/joss.00026;citation_author=Conrad Sanderson;citation_author=Ryan Curtin"/>
+  <meta name="citation_reference" content="citation_title=Rcpp: Seamless r and c++ integration;citation_publication_date=2011;citation_volume=40;citation_author=Dirk Eddelbuettel;citation_author=Romain FranÃ§ois;citation_author=J Allaire;citation_author=Kevin Ushey;citation_author=Qiang Kou;citation_author=N Russel;citation_author=John Chambers;citation_author=D Bates"/>
   <!--radix_placeholder_rmarkdown_metadata-->
 
   <script type="text/json" id="radix-rmarkdown-metadata">
-  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","output","description"]}},"value":[{"type":"character","attributes":{},"value":["Open-Source Software"]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["distill::distill_article"]}},"value":[{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["toc","toc_depth","css"]}},"value":[{"type":"logical","attributes":{},"value":[true]},{"type":"integer","attributes":{},"value":[2]},{"type":"character","attributes":{},"value":["css/custom.css"]}]}]},{"type":"character","attributes":{},"value":["Software that I have developed of the years."]}]}
+  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","bibliography","output","description"]}},"value":[{"type":"character","attributes":{},"value":["Open-Source Software"]},{"type":"character","attributes":{},"value":["citations/REFERENCES.bib"]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["distill::distill_article"]}},"value":[{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["toc","toc_depth","css"]}},"value":[{"type":"logical","attributes":{},"value":[true]},{"type":"integer","attributes":{},"value":[2]},{"type":"character","attributes":{},"value":["css/custom.css"]}]}]},{"type":"character","attributes":{},"value":["Software that I have developed of the years."]}]}
   </script>
   <!--/radix_placeholder_rmarkdown_metadata-->
   <!--radix_placeholder_navigation_in_header-->
@@ -2590,13 +2594,18 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 </ul>
 </nav>
 </div>
-<h1 id="creator">Creator</h1>
+<h2 id="creator">Creator</h2>
 <div class="float-left">
 <p><img src="images/bggm_hex.jpg" width="150px"></p>
-<h2 id="bggm-bayesian-gaussian-graphical-models">BGGM: Bayesian Gaussian Graphical Models</h2>
-<p><img src="http://cranlogs.r-pkg.org/badges/grand-total/BGGM" /></p>
+<h3 id="bggm-bayesian-gaussian-graphical-models">BGGM: Bayesian Gaussian Graphical Models</h3>
+<p>The {<strong>BGGM</strong>} R package is a collection of tools for making Bayesian inference in Gaussian graphical models. The are organized around two general approaches for Bayesian inference: (1) estimation and (2) hypothesis testing. The computationally intensive tasks (e.g., custom MCMC samplers) are written in <code>c++</code> via the <code>R</code> package <strong>Rcpp</strong> <span class="citation" data-cites="eddelbuettel2011rcpp">(<a href="#ref-eddelbuettel2011rcpp" role="doc-biblioref">Eddelbuettel et al. 2011</a>)</span> and the <code>c++</code> library <strong>Armadillo</strong> <span class="citation" data-cites="sanderson2016armadillo">(<a href="#ref-sanderson2016armadillo" role="doc-biblioref">Sanderson and Curtin 2016</a>)</span>. The Bayes factors are computed with the <code>R</code> package <strong>BFpack</strong> <span class="citation" data-cites="mulder2019bfpack">(<a href="#ref-mulder2019bfpack" role="doc-biblioref">Mulder et al. 2019</a>)</span>. There is full support for continuous, binary, ordinal, and mixed data (via a Gaussian copula graphical model).</p>
+<p><img src="http://cranlogs.r-pkg.org/badges/grand-total/BGGM?color=b05a5a" /></p>
+<div class="layout-chunk" data-layout="l-body">
+<a href="https://donaldrwilliams.github.io/BGGM/" class="icon-link"><i class="fas fa-external-link-alt"></i> Website</a>
 </div>
-<h1 id="contributor">Contributor</h1>
+</div>
+<h2 id="contributor">Contributor</h2>
+<h3 id="references">References</h3>
 <!-- ```{r} -->
 <!-- create_proj_card( -->
 <!--   img_src = "images/bggm_hex.jpg", -->
@@ -2616,6 +2625,17 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <!-- ``` -->
 <!-- ## Contributor -->
 <div class="sourceCode" id="cb1"><pre class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
+<div id="refs" class="references csl-bib-body hanging-indent" role="doc-bibliography">
+<div id="ref-eddelbuettel2011rcpp" class="csl-entry" role="doc-biblioentry">
+Eddelbuettel, Dirk, Romain François, J Allaire, Kevin Ushey, Qiang Kou, N Russel, John Chambers, and D Bates. 2011. <span>“Rcpp: Seamless r and c++ Integration.”</span> <em>Journal of Statistical Software</em> 40 (8): 1–18.
+</div>
+<div id="ref-mulder2019bfpack" class="csl-entry" role="doc-biblioentry">
+Mulder, Joris, Xin Gu, Anton Olsson-Collentine, Andrew Tomarken, Florian Böing-Messing, Herbert Hoijtink, Marlyne Meijerink, et al. 2019. <span>“BFpack: Flexible Bayes Factor Testing of Scientific Theories in r.”</span> <em>arXiv Preprint arXiv:1911.07728</em>.
+</div>
+<div id="ref-sanderson2016armadillo" class="csl-entry" role="doc-biblioentry">
+Sanderson, Conrad, and Ryan Curtin. 2016. <span>“Armadillo: A Template-Based c++ Library for Linear Algebra.”</span> <em>Journal of Open Source Software</em> 1 (2): 26. <a href="https://doi.org/10.21105/joss.00026">https://doi.org/10.21105/joss.00026</a>.
+</div>
+</div>
 <!--radix_placeholder_article_footer-->
 <!--/radix_placeholder_article_footer-->
 </div>
@@ -2628,6 +2648,8 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <!--/radix_placeholder_site_after_body-->
 <!--radix_placeholder_appendices-->
 <div class="appendix-bottom">
+<h3 id="references">References</h3>
+<div id="references-listing"></div>
 <h3 id="updates-and-corrections">Corrections</h3>
 <p>If you see mistakes or want to suggest changes, please <a href="https://github.com/donaldRwilliams/donaldRwilliams.github.io/issues/new">create an issue</a> on the source repository.</p>
 </div>
