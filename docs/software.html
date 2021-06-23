@@ -112,7 +112,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   <!--radix_placeholder_rmarkdown_metadata-->
 
   <script type="text/json" id="radix-rmarkdown-metadata">
-  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","bibliography","output","description"]}},"value":[{"type":"character","attributes":{},"value":["Open-Source Software"]},{"type":"character","attributes":{},"value":["citations/REFERENCES.bib"]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["distill::distill_article"]}},"value":[{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["toc","toc_depth","css"]}},"value":[{"type":"logical","attributes":{},"value":[true]},{"type":"integer","attributes":{},"value":[2]},{"type":"character","attributes":{},"value":["css/custom.css"]}]}]},{"type":"character","attributes":{},"value":["Software that I have developed over the years."]}]}
+  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","bibliography","output","description"]}},"value":[{"type":"character","attributes":{},"value":["Open-Source Software"]},{"type":"character","attributes":{},"value":["citations/REFERENCES.bib"]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["distill::distill_article"]}},"value":[{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["toc","toc_depth","css"]}},"value":[{"type":"logical","attributes":{},"value":[true]},{"type":"integer","attributes":{},"value":[3]},{"type":"character","attributes":{},"value":["css/custom.css"]}]}]},{"type":"character","attributes":{},"value":["Software that I have developed over the years."]}]}
   </script>
   <!--/radix_placeholder_rmarkdown_metadata-->
   <!--radix_placeholder_navigation_in_header-->
@@ -2589,15 +2589,18 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <nav class="l-text toc figcaption" id="TOC">
 <h3>Contents</h3>
 <ul>
-<li><a href="#creator">Creator</a></li>
+<li><a href="#creator">Creator</a>
+<ul>
+<li><a href="#bggm-bayesian-gaussian-graphical-models">BGGM: Bayesian Gaussian Graphical Models</a></li>
+</ul></li>
 <li><a href="#contributor">Contributor</a></li>
 </ul>
 </nav>
 </div>
 <h2 id="creator">Creator</h2>
+<h3 id="bggm-bayesian-gaussian-graphical-models">BGGM: Bayesian Gaussian Graphical Models</h3>
 <div class="float-left">
 <p><img src="images/bggm_hex.jpg" width="150px"></p>
-<h3 id="bggm-bayesian-gaussian-graphical-models">BGGM: Bayesian Gaussian Graphical Models</h3>
 <p>The {<strong>BGGM</strong>} R package is a collection of tools for making Bayesian inference in Gaussian graphical models. The are organized around two general approaches for Bayesian inference: (1) estimation and (2) hypothesis testing. The computationally intensive tasks (e.g., custom MCMC samplers) are written in <code>c++</code> via the <code>R</code> package <strong>Rcpp</strong> <span class="citation" data-cites="eddelbuettel2011rcpp">(<a href="#ref-eddelbuettel2011rcpp" role="doc-biblioref">Eddelbuettel et al. 2011</a>)</span> and the <code>c++</code> library <strong>Armadillo</strong> <span class="citation" data-cites="sanderson2016armadillo">(<a href="#ref-sanderson2016armadillo" role="doc-biblioref">Sanderson and Curtin 2016</a>)</span>. The Bayes factors are computed with the <code>R</code> package <strong>BFpack</strong> <span class="citation" data-cites="mulder2019bfpack">(<a href="#ref-mulder2019bfpack" role="doc-biblioref">Mulder et al. 2019</a>)</span>. There is full support for continuous, binary, ordinal, and mixed data (via a Gaussian copula graphical model).</p>
 <p><img src="http://cranlogs.r-pkg.org/badges/grand-total/BGGM?color=b05a5a" /></p>
 <div class="layout-chunk" data-layout="l-body">
@@ -2608,7 +2611,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 </div>
 </div>
 <h2 id="contributor">Contributor</h2>
-<h3 id="references">References</h3>
+<h4 id="references">References</h4>
 <!-- ```{r} -->
 <!-- create_proj_card( -->
 <!--   img_src = "images/bggm_hex.jpg", -->

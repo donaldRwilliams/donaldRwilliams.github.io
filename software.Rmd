@@ -4,7 +4,7 @@ bibliography: citations/REFERENCES.bib
 output:
   distill::distill_article:
     toc: true
-    toc_depth: 2
+    toc_depth: 3
     css:
       - css/custom.css
 description: |
@@ -45,12 +45,12 @@ source("R/functions.R")
 ## Creator
 
 
-
+### BGGM: Bayesian Gaussian Graphical Models
 :::float-left
 
 <img src="images/bggm_hex.jpg" width="150px">
 
-### BGGM: Bayesian Gaussian Graphical Models
+
 The {**BGGM**} R package is a collection of tools for making Bayesian 
 inference in Gaussian graphical models. The are organized around two general approaches for Bayesian inference: (1) estimation and (2) hypothesis testing. The computationally intensive tasks (e.g., custom MCMC samplers) are written in `c++` via the `R` package **Rcpp** [@eddelbuettel2011rcpp] and the `c++` library **Armadillo** [@sanderson2016armadillo]. The Bayes factors are computed with the `R` package **BFpack** [@mulder2019bfpack].  There is full support for continuous, binary, ordinal,
 and mixed data (via a Gaussian copula graphical model).
@@ -87,7 +87,7 @@ icon_link(
 ## Contributor
 
 
-### References
+#### References
 
 <!-- ```{r} -->
 <!-- create_proj_card( -->
