@@ -1,6 +1,8 @@
 name: "website"
 theme: css/custom.css
 title: "DRW"
+base_url: https://donaldrwilliams.github.io/
+repository_url: https://github.com/donaldRwilliams/donaldRwilliams.github.io
 description: |
   The personal website of Donald R. Williams
 output_dir: "docs"
