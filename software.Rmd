@@ -86,8 +86,6 @@ icon_link(
 ## Contributor
 
 
-#### References
-
 <!-- ```{r} -->
 <!-- create_proj_card( -->
 <!--   img_src = "images/bggm_hex.jpg", -->
