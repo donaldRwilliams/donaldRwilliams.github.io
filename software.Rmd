@@ -9,8 +9,8 @@ description: |
   Software that I have developed of the years.
 ---
 
-# Creator
+## Creator
 
-## BGGM: Bayesian Gaussian Graphical Models
+### BGGM: Bayesian Gaussian Graphical Models
 
-# Contributor
+## Contributor
