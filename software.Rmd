@@ -1,6 +1,5 @@
 ---
 title: "Open-Source Software"
-bibliography: citations/REFERENCES.bib
 favicon: images/headphones.JPG
 output:
   distill::distill_article:
@@ -43,6 +42,9 @@ library(htmltools)
 source("R/functions.R")
 ```
 
+The {**BGGM**} and {**blsmeta**} `R` packages are under constant development. 
+
+
 ## Creator
 
 
@@ -63,6 +65,12 @@ icon_link(
     icon = "fas fa-external-link-alt",
     text = "CRAN",
     url  = "https://cran.r-project.org/web/packages/BGGM/index.html"
+)
+
+icon_link(
+    icon = "fab fa-github",
+    text = "GitHub",
+    url  = "https://github.com/donaldRwilliams/BGGM"
 )
 
 icon_link(
@@ -104,13 +112,15 @@ icon_link(
 :::
 
 
+<br>
+
 ### GGMnonreg: Non-regularized Gaussian Graphical Models
 
 :::float-left
 
 <img src="images/nonreg_hex.png" width="175px">
 
-The goal of **GGMnonreg** is to estimate non-regularized graphical models. Note that the title is a bit of a misnomer, in that Ising and mixed graphical models are also supported. Graphical modeling is quite common in fields with wide data, that is, when there are more variables than observations. Accordingly, many regularization-based approaches have been developed for those kinds of data. There are key drawbacks of regularization when the goal is inference, including, but not limited to, the fact that obtaining a valid measure of parameter uncertainty is very (very) difficult. **GGMnonreg**, on the other hand, was specifically built for low-dimensional data (e.g., those common to psychological networks).
+The goal of {**GGMnonreg**} is to estimate non-regularized graphical models. Note that the title is a bit of a misnomer, in that Ising and mixed graphical models are also supported. Graphical modeling is quite common in fields with wide data, that is, when there are more variables than observations. Accordingly, many regularization-based approaches have been developed for those kinds of data. There are key drawbacks of regularization when the goal is inference, including, but not limited to, the fact that obtaining a valid measure of parameter uncertainty is very (very) difficult. {**GGMnonreg**}, on the other hand, was specifically built for low-dimensional data (e.g., those common to psychological networks).
 
 
 ```{r, echo=FALSE}
@@ -120,6 +130,11 @@ icon_link(
     url  = "https://cran.r-project.org/web/packages/GGMnonreg/index.html"
 )
 
+icon_link(
+    icon = "fab fa-github",
+    text = "GitHub",
+    url  = "https://github.com/donaldRwilliams/GGMnonreg"
+)
 ```
 
 ![](http://cranlogs.r-pkg.org/badges/grand-total/GGMnonreg?color=b05a5a) 
@@ -127,26 +142,95 @@ icon_link(
 :::
 
 
+<br>
+
+### GGMncv: Gaussian Graphical Models with Non-Convex Penalties
+
+:::float-left
+
+<img src="images/ncv_hex.png" width="175px">
+
+The primary goal of {**GGMncv**} is to provide non-convex penalties for estimating Gaussian graphical models. These are known to overcome the various limitations of lasso (least absolute shrinkage “screening” operator), including inconsistent model selection, biased estimates, and a high false positive rate. 
+An additional goal of {**GGMncv**} is to provide methods for making statistical inference in regularized Gaussian graphical models. This is accomplished with the de-sparsified graphical lasso estimator.
+
+```{r, echo=FALSE}
+icon_link(
+    icon = "fas fa-external-link-alt",
+    text = "CRAN",
+    url  = "https://cran.r-project.org/web/packages/GGMncv/index.html"
+)
+
+icon_link(
+    icon = "fab fa-github",
+    text = "GitHub",
+    url  = "https://github.com/donaldRwilliams/vICC"
+)
+```
+
+![](http://cranlogs.r-pkg.org/badges/grand-total/GGMncv?color=b05a5a) 
+
+:::
+
+
+
+<br>
+
+### vICC: Varying Intraclass Correlation Coefficients
+
+:::float-left
+
+<img src="images/vicc_hex.png" width="175px">
+
+The goal of {**vICC**} is to compute varying intraclass correlation coefficients (ICC) in a one-way random effects model. Often computing an ICC is the first step when fitting a mixed-effects model that results in merely one value that is assumed to apply to each group (e.g., person, school, etc.). The underlying assumption is a common within-group variance, whereas, in {**vICC**}, a random-effects model is fitted to the residual variance, thereby permitting group-level ICCs. When subjects are the grouping variable, this is akin to investigating individual differences in the ICC.
+
+```{r, echo=FALSE}
+icon_link(
+    icon = "fas fa-external-link-alt",
+    text = "CRAN",
+    url  = "https://cran.r-project.org/web/packages/vICC/index.html"
+)
+
+icon_link(
+    icon = "fab fa-github",
+    text = "GitHub",
+    url  = "https://github.com/donaldRwilliams/vICC"
+)
+
+```
+
+![](http://cranlogs.r-pkg.org/badges/grand-total/vICC?color=b05a5a) 
+
+:::
+
+
+<br>
+
+### IRCcheck: Irrepresentable Condition Check
+
+:::float-left
+
+<img src="images/irc_hex.png" width="175px">
+
+The goal of {**IRCcheck**} is to check the irrepresentable condition in both L1-regularized regression and Gaussian graphical models. At it crux, the IRC states that the important and unimportant variables cannot be correlated, at least not all that much (total irrelevant covariance below 1). L1-regularization requires the IRC for consistent model selection, that is, with more data, the true model is recovered. The IRC cannot be checked in real data. The primary use for this package is to explore the IRC in a true model that may be used in a simulation study. 
+
+```{r, echo=FALSE}
+icon_link(
+    icon = "fas fa-external-link-alt",
+    text = "CRAN",
+    url  = "https://cran.r-project.org/web/packages/IRCcheck/index.html"
+)
+
+icon_link(
+    icon = "fab fa-github",
+    text = "GitHub",
+    url  = "https://github.com/donaldRwilliams/IRCcheck"
+)
+```
+
+![](http://cranlogs.r-pkg.org/badges/grand-total/IRCcheck?color=b05a5a) 
+
+:::
+
 ## Contributor
 
 
-<!-- ```{r} -->
-<!-- create_proj_card( -->
-<!--   img_src = "images/bggm_hex.jpg", -->
-<!--   url = "https://github.com/donaldRwilliams/BGGM", -->
-<!--   title = "{BGGM}", -->
-<!--   text = "The {BGGM} R package is a collection of tools for Bayesian  -->
-<!--   Gaussian graphical modeling.", -->
-<!--   text2 = NULL -->
-<!-- ) -->
-<!-- ``` -->
-
-
-<!-- ```{r, echo=FALSE} -->
-<!-- icon_link( -->
-<!--     icon = "ai ai-google-scholar", -->
-<!--     text = "Downloads", -->
-<!--     url  = "http://cranlogs.r-pkg.org/badges/grand-total/BGGM" -->
-<!-- ) -->
-<!-- ``` -->
-<!-- ## Contributor -->
