@@ -42,7 +42,7 @@ library(htmltools)
 source("R/functions.R")
 ```
 
-The {**BGGM**} and {**blsmeta**} `R` packages are under constant development. 
+The {**BGGM**} an {**blsmeta**} `R` packages are under active development. 
 
 
 ## Creator
@@ -228,6 +228,35 @@ icon_link(
 ```
 
 ![](http://cranlogs.r-pkg.org/badges/grand-total/IRCcheck?color=b05a5a) 
+
+:::
+
+
+
+<br>
+
+### BBcor: Bayesian Bootstrapping Correlations
+:::float-left
+
+
+The goal of {**BBcor**} is to provide an efficient way to obtain samples from the posterior distribution of various correlation coefficients, including:
+(1) Pearson, (2) Spearman, (3) Gaussian rank, (4) Kendall, (5) Blomqvist, and (6) polychoric.
+
+```{r, echo=FALSE}
+icon_link(
+    icon = "fas fa-external-link-alt",
+    text = "CRAN",
+    url  = "https://cran.r-project.org/web/packages/BBcor/index.html"
+)
+
+icon_link(
+    icon = "fab fa-github",
+    text = "GitHub",
+    url  = "https://github.com/donaldRwilliams/BBcor"
+)
+```
+
+![](http://cranlogs.r-pkg.org/badges/grand-total/BBcor?color=b05a5a) 
 
 :::
 
