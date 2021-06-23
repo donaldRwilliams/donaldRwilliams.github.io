@@ -41,7 +41,7 @@ library(htmltools)
 source("R/functions.R")
 ```
 
-## Creator
+# Creator
 
 
 
@@ -49,11 +49,14 @@ source("R/functions.R")
 
 <img src="images/bggm_hex.jpg" width="150px">
 
-### BGGM: Bayesian Gaussian Graphical Models
+## BGGM: Bayesian Gaussian Graphical Models
+
+![](http://cranlogs.r-pkg.org/badges/grand-total/BGGM)
 
 :::
 
 
+# Contributor
 
 <!-- ```{r} -->
 <!-- create_proj_card( -->
