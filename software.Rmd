@@ -3,6 +3,7 @@ title: "Open-Source Software"
 output:
   distill::distill_article:
     toc: true
+    toc_depth: 2
     css:
       - css/custom.css
 description: |
@@ -42,25 +43,35 @@ source("R/functions.R")
 
 ## Creator
 
+
+
+:::float-left
+
+<img src="images/bggm_hex.jpg" width="150px">
+
 ### BGGM: Bayesian Gaussian Graphical Models
 
-```{r}
-create_proj_card(
-  img_src = "images/bggm_hex.jpg",
-  url = "https://github.com/donaldRwilliams/BGGM",
-  title = "{BGGM}",
-  text = "The {BGGM} R package is a collection of tools for Bayesian 
-  Gaussian graphical modeling.",
-  text2 = NULL
-)
-```
+:::
 
 
-```{r, echo=FALSE}
-icon_link(
-    icon = "ai ai-google-scholar",
-    text = "Downloads",
-    url  = "http://cranlogs.r-pkg.org/badges/grand-total/BGGM"
-)
-```
-## Contributor
+
+<!-- ```{r} -->
+<!-- create_proj_card( -->
+<!--   img_src = "images/bggm_hex.jpg", -->
+<!--   url = "https://github.com/donaldRwilliams/BGGM", -->
+<!--   title = "{BGGM}", -->
+<!--   text = "The {BGGM} R package is a collection of tools for Bayesian  -->
+<!--   Gaussian graphical modeling.", -->
+<!--   text2 = NULL -->
+<!-- ) -->
+<!-- ``` -->
+
+
+<!-- ```{r, echo=FALSE} -->
+<!-- icon_link( -->
+<!--     icon = "ai ai-google-scholar", -->
+<!--     text = "Downloads", -->
+<!--     url  = "http://cranlogs.r-pkg.org/badges/grand-total/BGGM" -->
+<!-- ) -->
+<!-- ``` -->
+<!-- ## Contributor -->
