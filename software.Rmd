@@ -108,7 +108,8 @@ icon_link(
 
 :::float-left
 
-<img src="images/nonreg_hex.jpg" width="150px">
+<img src="images/nonreg_hex.png" width="150px">
+
 The goal of **GGMnonreg** is to estimate non-regularized graphical models. Note that the title is a bit of a misnomer, in that Ising and mixed graphical models are also supported. **GGMnonreg** was specifically built for low-dimensional data (e.g., those common to psychological networks).
 
 
