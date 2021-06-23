@@ -28,7 +28,7 @@ meta() %>%
   meta_social(
     title = "DRW: Software",
     url = "https://donaldrwilliams.github.io/software.html",
-    image = "https://donaldrwilliams.github.io/images/donny_pic.png",
+    image = "https://donaldrwilliams.github.io/images/headphones.JPG",
     image_alt = "A photo of DRW",
     og_type = "website",
     og_author = c("Donald R. Williams"),
@@ -56,27 +56,26 @@ inference in Gaussian graphical models. The are organized around two general app
 and mixed data (via a Gaussian copula graphical model).
  
 
-
-![](http://cranlogs.r-pkg.org/badges/grand-total/BGGM?color=b05a5a)  
-
-
-```{r, echo=FALSE}
-icon_link(
-    icon = "fas fa-external-link-alt",
-    text = "Website",
-    url  = "https://donaldrwilliams.github.io/BGGM/"
-)
-```
-
 ```{r, echo=FALSE}
 icon_link(
     icon = "fas fa-external-link-alt",
     text = "CRAN",
     url  = "https://cran.r-project.org/web/packages/BGGM/index.html"
 )
+
+icon_link(
+    icon = "fas fa-external-link-alt",
+    text = "Website",
+    url  = "https://donaldrwilliams.github.io/BGGM/"
+)
+
 ```
 
+![](http://cranlogs.r-pkg.org/badges/grand-total/BGGM?color=b05a5a) 
 :::
+
+<!--   -->
+
 
 
 
