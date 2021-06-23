@@ -35,9 +35,27 @@ meta() %>%
   )
 ```
 
+```{r, include=FALSE}
+library(htmltools)
+source("R/functions.R")
+```
+
 ## Creator
 
 ### BGGM: Bayesian Gaussian Graphical Models
+
+```{r}
+create_proj_card(
+  img_src = "images/bggm_hex.jpg",
+  url = "https://github.com/donaldRwilliams/BGGM",
+  title = "{BGGM}",
+  text = "The {BGGM} R package is a collection of tools for Bayesian 
+  Gaussian graphical modeling.",
+  text2 = NULL
+)
+```
+
+
 ```{r, echo=FALSE}
 icon_link(
     icon = "ai ai-google-scholar",
