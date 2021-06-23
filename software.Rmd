@@ -75,9 +75,15 @@ icon_link(
 ![](http://cranlogs.r-pkg.org/badges/grand-total/BGGM?color=b05a5a) 
 :::
 
-<!--   -->
+### blsmeta: Bayesian Location-Scale Meta-Analysis
+:::float-left
 
 
+<img src="images/blsmeta_hex.jpg" width="150px">
+
+The {**blsmeta**} R package is a collection of tools 
+
+:::
 
 
 
