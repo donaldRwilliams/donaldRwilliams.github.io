@@ -104,8 +104,26 @@ icon_link(
 :::
 
 
+### GGMnonreg: Non-regularized Gaussian Graphical Models
+
+:::float-left
+
+<img src="images/nonreg_hex.jpg" width="150px">
+The goal of **GGMnonreg** is to estimate non-regularized graphical models. Note that the title is a bit of a misnomer, in that Ising and mixed graphical models are also supported. **GGMnonreg** was specifically built for low-dimensional data (e.g., those common to psychological networks).
 
 
+```{r, echo=FALSE}
+icon_link(
+    icon = "fas fa-external-link-alt",
+    text = "CRAN",
+    url  = "https://cran.r-project.org/web/packages/GGMnonreg/index.html"
+)
+
+```
+
+![](http://cranlogs.r-pkg.org/badges/grand-total/GGMnonreg?color=b05a5a) 
+
+:::
 
 
 ## Contributor
