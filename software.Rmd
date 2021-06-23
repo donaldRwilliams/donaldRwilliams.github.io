@@ -1,6 +1,7 @@
 ---
 title: "Open-Source Software"
 bibliography: citations/REFERENCES.bib
+favicon: images/headphones.JPG
 output:
   distill::distill_article:
     toc: true
