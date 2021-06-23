@@ -1,0 +1,35 @@
+---
+title: "Resources"
+bibliography: citations/REFERENCES.bib
+favicon: images/headphones.JPG
+output:
+  distill::distill_article:
+    toc: true
+    toc_depth: 3
+    css:
+      - css/custom.css
+description: |
+  Resources.
+---
+
+# National Science Foundation Graduate Research Fellowship Materials
+
+I received the NSFGRF in 2017.
+
+
+```{r, echo=FALSE}
+icon_link(
+    icon = "fas fa-download",
+    text = "Personal Statement",
+    url  = "https://github.com/donaldRwilliams/donaldRwilliams.github.io/raw/main/files/donny_nsf_personal.pdf"
+)
+
+icon_link(
+    icon = "fas fa-download",
+    text = "Research Proposal",
+    url  = "https://github.com/donaldRwilliams/donaldRwilliams.github.io/raw/main/files/donny_nsf_proposal.pdf"
+)
+```
+
+
+
