@@ -1,0 +1,17 @@
+name: "website"
+theme: css/custom.css
+title: "DRW"
+description: |
+  The personal website of Donald R. Williams
+output_dir: "docs"
+navbar:
+  search: true
+  left:
+    - icon: fa-home
+      href: index.html
+    - icon: fa-envelope-open
+      href: mailto:drwwiliams@ucdavis.edu
+  right:
+    - text: "Software"
+      href: software.html
+output: distill::distill_article
