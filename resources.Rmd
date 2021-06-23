@@ -12,6 +12,32 @@ description: |
   Resources.
 ---
 
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+source(file.path("R", "functions.R"))
+library(distilltools)
+```
+
+```{r metathis, message=FALSE, warning=FALSE, include=FALSE}
+library(metathis)
+meta() %>%
+  meta_description(
+    "Resources"
+  ) %>%
+  meta_name("github-repo" = "donaldRwilliams/donaldRwilliams.github.io") %>%
+  meta_viewport() %>%
+  meta_social(
+    title = "DRW: Resources",
+    url = "https://donaldrwilliams.github.io/resources.html",
+    image = "https://donaldrwilliams.github.io/images/fire2.png",
+    image_alt = "A photo of DRW",
+    og_type = "website",
+    og_author = c("Donald R. Williams"),
+    twitter_card_type = "summary",
+    twitter_creator = "@wdonald_1985"
+  )
+```
+
 # National Science Foundation Graduate Research Fellowship Materials
 
 I received the NSFGRF in 2017.
