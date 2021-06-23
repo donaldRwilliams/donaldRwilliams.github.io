@@ -76,7 +76,6 @@ icon_link(
 :::
 
 <br>
-<br>
 
 ### blsmeta: Bayesian Location-Scale Meta-Analysis
 :::float-left
