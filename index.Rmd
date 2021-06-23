@@ -17,7 +17,16 @@ output:
   postcards::trestles
 ---
 
-
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+source(file.path("R", "functions.R"))
+```
 
 I am a _____ (researcher; PhD student) based at ______.  For a detailed bio, please click here.
 
+
+<center>
+`r gscholar_stats("https://scholar.google.com/citations?user=IjPXPAMAAAAJ&hl=en")`
+</center>
+
+`r aside_center("Source: Google Scholar")`

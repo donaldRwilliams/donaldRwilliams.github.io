@@ -9,10 +9,20 @@ description: |
   Software that I have developed of the years.
 ---
 
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+source(file.path("R", "functions.R"))
+library(distilltools)
+```
+
 ## Creator
 
 ### BGGM: Bayesian Gaussian Graphical Models
-
-![](http://cranlogs.r-pkg.org/badges/grand-total/BGGM)
-
+```{r, echo=FALSE}
+icon_link(
+    icon = "ai ai-google-scholar",
+    text = "Downloads",
+    url  = "http://cranlogs.r-pkg.org/badges/grand-total/BGGM"
+)
+```
 ## Contributor
