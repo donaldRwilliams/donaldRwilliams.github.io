@@ -68,6 +68,14 @@ icon_link(
 )
 ```
 
+```{r, echo=FALSE}
+icon_link(
+    icon = "fas fa-external-link-alt",
+    text = "CRAN",
+    url  = "https://cran.r-project.org/web/packages/BGGM/index.html"
+)
+```
+
 :::
 
 
