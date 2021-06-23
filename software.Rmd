@@ -13,4 +13,6 @@ description: |
 
 ### BGGM: Bayesian Gaussian Graphical Models
 
+![](http://cranlogs.r-pkg.org/badges/grand-total/BGGM)
+
 ## Contributor
