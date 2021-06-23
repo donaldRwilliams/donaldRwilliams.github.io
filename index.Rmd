@@ -12,6 +12,7 @@ links:
     url: mailto:drwwiliams@ucdavis.edu
 base_url: https://donaldrwilliams.github.io/website/
 preview: "prev2.png"
+favicon: images/headphones.JPG
 site: distill::distill_website
 output:
   postcards::trestles
