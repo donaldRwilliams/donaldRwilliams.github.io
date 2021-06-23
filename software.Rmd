@@ -11,6 +11,6 @@ description: |
 
 # Creator
 
-<p><button class="w3-button w3-black w3-round-xlarge">Round XLarge</button></p>
+## BGGM: Bayesian Gaussian Graphical Models
 
 # Contributor
