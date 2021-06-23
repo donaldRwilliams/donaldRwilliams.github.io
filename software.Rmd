@@ -75,11 +75,14 @@ icon_link(
 ![](http://cranlogs.r-pkg.org/badges/grand-total/BGGM?color=b05a5a) 
 :::
 
+<br>
+<br>
+
 ### blsmeta: Bayesian Location-Scale Meta-Analysis
 :::float-left
 
 
-<img src="images/blsmeta_hex.png" width="250px">
+<img src="images/blsmeta_hex.png" width="225px">
 
 The goal of {**blsmeta**} is to provide a user-friendly interface for
 Bayesian meta-analysis, including fixed-effects, two-level, 
@@ -88,6 +91,14 @@ random-effects models. Additionally, a key feature of {**blsmeta**} is "scale" m
 (e.g., perhaps between-study variance is not constant across studies). 
 As a result, heterogeneity statistics and prediction intervals are then a function of those same moderators, thereby opening the door to **better
 understanding heterogeneity in meta-analysis**. 
+
+```{r, echo=FALSE}
+icon_link(
+    icon = "fas fa-external-link-alt",
+    text = "Repo",
+    url  = "https://github.com/donaldRwilliams/blsmeta"
+)
+```
 
 :::
 
