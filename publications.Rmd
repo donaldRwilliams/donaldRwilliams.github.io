@@ -81,7 +81,7 @@ icon_link(
 
 icon_link(
     icon = "ai ai-osf",
-    text = "Code",
+    text = "Repo",
     url  = "https://osf.io/uedkj/"
 )
 ```
@@ -93,7 +93,8 @@ Structure Learning, Predictability, and Network Comparisons, Multivariate Behavi
 
 ```
 @article{,
-  title={Bayesian estimation for Gaussian graphical models: Structure learning, predictability, and   network comparisons},
+  title={Bayesian estimation for Gaussian graphical models: 
+  Structure learning, predictability, and   network comparisons},
   author={Williams, Donald R},
   journal={Multivariate Behavioral Research},
   volume={56},
@@ -114,7 +115,7 @@ icon_link(
 
 icon_link(
     icon = "ai ai-osf",
-    text = "Code",
+    text = "Repo",
     url  = "https://osf.io/k9mv2/"
 )
 ```
