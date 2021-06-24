@@ -153,7 +153,7 @@ icon_link(
 
 <br>
 
-*Williams, D. R.*, Martin, S. R., & Rast, P. (in press). Putting the Individual into Reliability: Bayesian Testing of Homogeneous Within-Person Variance in Hierarchical Models. *Behavior Research Methods*.
+**Williams, D. R.**, Martin, S. R., & Rast, P. (in press). Putting the Individual into Reliability: Bayesian Testing of Homogeneous Within-Person Variance in Hierarchical Models. *Behavior Research Methods*.
 
 
 ```
@@ -192,6 +192,43 @@ icon_link(
     icon = "fab fa-github",
     text = "GitHub",
     url  = "https://github.com/donaldRwilliams/vICC"
+)
+```
+
+
+<br>
+
+**Williams, D. R.**, Liu, S., Martin, S. R., & Rast, P. (2021). Bayesian 
+Multivariate Mixed-Effects Location Scale Modeling of Longitudinal Relations among 
+Affective 
+Traits, States, and Physical Activity.
+European Journal of Psychological Assessment. 36 (6). `r doi("10.1027/1015-5759/a000624")`
+
+```
+@article{,
+  title={Bayesian Multivariate Mixed-Effects Location 
+         Scale Modeling of Longitudinal Relations among 
+         Affective Traits, States, and Physical Activity},
+  author={Williams, Donald R and Martin, Stephen R and Liu, Siwei and Rast, Philippe},
+  journal={European Journal of Psychological Assessment},
+  year={2021},
+  publisher={Hogrefe Publishing},
+  doi={10.1027/1015-5759/a000624}
+}
+```
+
+
+```{r, echo=FALSE}
+icon_link(
+    icon = "fa fa-file-pdf",
+    text = "PDF",
+    url  = "https://psyarxiv.com/4kfjp/"
+)
+
+icon_link(
+    icon = "ai ai-osf",
+    text = "Repo",
+    url  = "https://osf.io/3bmdh/"
 )
 ```
 
