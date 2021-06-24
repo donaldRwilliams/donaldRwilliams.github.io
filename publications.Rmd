@@ -143,7 +143,7 @@ icon_link(
 )
 ```
 
-<br>
+<hr style="width:35%;text-align:left;margin-left:15">  
 
 **Williams, D. R.**, Martin, S. R., & Rast, P. (in press). Putting the Individual into Reliability: Bayesian Testing of Homogeneous Within-Person Variance in Hierarchical Models. *Behavior Research Methods*.
 
@@ -188,7 +188,7 @@ icon_link(
 ```
 
 
-<br>
+<hr style="width:35%;text-align:left;margin-left:15">  
 
 **Williams, D. R.**, Liu, S., Martin, S. R., & Rast, P. (2021). Bayesian 
 Multivariate Mixed-Effects Location Scale Modeling of Longitudinal Relations among 
@@ -225,7 +225,7 @@ icon_link(
 )
 ```
 
-<br>
+<hr style="width:35%;text-align:left;margin-left:15">  
 
 Mulder, J., **Williams, D. R.**, Gu, X., Olsson-Collentine, A., Tomarken, A., 
 Boing-Messing, F., Hoijtink, H., ... & van Lissa, C. (in press). BFpack: Flexible bayes factor testing of scientific theories
@@ -266,11 +266,7 @@ icon_link(
 
 ```
 
-
-
-
-
-<br>
+<hr style="width:35%;text-align:left;margin-left:15">  
 
 ### 2020
 
@@ -309,7 +305,7 @@ icon_link(
 ```
 
 
-<br>
+<hr style="width:35%;text-align:left;margin-left:15">  
 
 **Williams, D. R.** & Joris Mulder. Bayesian Hypothesis Testing for Gaussian Graphical Models: Conditional Independence and Order Constraints. *Journal of Mathematical Psychology*, 99, 102441. `r doi("10.1016/j.jmp.2020.102441")``
 
@@ -354,7 +350,7 @@ icon_link(
 ```
 
 
-<br>
+<hr style="width:35%;text-align:left;margin-left:15">  
 
 **Williams, D. R.**, Rast, P., Pericchi, L. R., & Mulder, J. (2020). 
 Comparing Gaussian graphical models with the posterior predictive 
@@ -408,7 +404,7 @@ icon_link(
 ```
 
 
-<br>
+<hr style="width:35%;text-align:left;margin-left:15">  
 
 **Williams, D. R.**, & Rast, P. (2020). Back to the basics: Rethinking 
 partial correlation network methodology. *British Journal of Mathematical and Statistical Psychology*, 73(2), 187-212.  `r doi("10.1111/bmsp.12173")``
@@ -457,7 +453,7 @@ icon_link(
 ```
 
 
-<br> 
+<hr style="width:35%;text-align:left;margin-left:15">  
 
 **Williams, D. R.**, & Mulder, J. (2020). BGGM: Bayesian Gaussian Graphical 
 Models in R. Journal of Open Source Software, 5(51), 2111. `r doi("10.21105/joss.02111")`
@@ -502,7 +498,7 @@ icon_link(
 )
 ```
 
-<br>
+<hr style="width:35%;text-align:left;margin-left:15">  
 
 **Williams, D. R.**, & Burkner, P. (2020). Coding errors lead to unsupported conclusions: a critique of Hofmann et al. (2015). Meta-Psychology, 4.
 `r doi("10.15626/MP.2018.872")`.
@@ -534,7 +530,7 @@ icon_link(
 ```
 
 
-<br>
+<hr style="width:35%;text-align:left;margin-left:15">  
 
 Briganti, G., **Williams, D. R.**, Mulder, J., & Linkowski, P. (2020). Bayesian network structure and predictability of autistic traits.
 *Psychological Reports*. `r doi("10.1177/0033294120978159")`.
@@ -551,9 +547,9 @@ Briganti, G., **Williams, D. R.**, Mulder, J., & Linkowski, P. (2020). Bayesian 
 }
 ```
 
-<br>
+<hr style="width:35%;text-align:left;margin-left:15">  
 
-Jones, P. J., Williams, D. R., & McNally, R. J. (2020).
+Jones, P. J., **Williams, D. R.**, & McNally, R. J. (2020).
 Sampling variability is not nonreplication: A Bayesian reanalysis
 of Forbes, Wright, Markon, and Krueger.
 *Multivariate Behavioral Research*, 1-7.
@@ -588,8 +584,7 @@ icon_link(
 ```
 
 
-<br>
-
+<hr style="width:35%;text-align:left;margin-left:15">  
 
 Rast, P., Martin, S. R., Liu, S., & **Williams, D. R.** (2020). A new
 frontier for studying within-person variability: Bayesian multivariate
@@ -631,7 +626,7 @@ icon_link(
 ```
 
 
-<br>
+<hr style="width:35%;text-align:left;margin-left:15">  
 
 ### 2019
 
@@ -666,7 +661,7 @@ icon_link(
 ```
 
 
-<br>
+<hr style="width:35%;text-align:left;margin-left:15">  
 
 **Williams, D. R.**, Rhemtulla, M., Wysocki, A. C., & Rast, P. (2019). On nonregularized estimation of psychological networks. *Multivariate behavioral research*, 54(5), 719-750. `r doi("10.1080/00273171.2019.1575716")`.
 
@@ -712,7 +707,7 @@ icon_link(
 ```
 
 
-<br>
+<hr style="width:35%;text-align:left;margin-left:15">  
 
 Nalborczyk, L., Burkner, P. C., & **Williams, D. R.** (2019). Pragmatism 
 should not be a substitute for statistical literacy, a commentary on Albers, 
@@ -749,10 +744,7 @@ icon_link(
 )
 ```
 
-
-
-
-<br>
+<hr style="width:35%;text-align:left;margin-left:15">  
 
 ### 2018
 
