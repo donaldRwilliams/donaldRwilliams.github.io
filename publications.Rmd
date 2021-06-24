@@ -62,7 +62,7 @@ icon_link(
 Expected Replicability in Partial Correlation Networks. *Psychological Methods*.
 
 ```
-@article{williams2020learning,
+@article{,
   title={Learning to live with sampling variability: Expected replicability 
          in partial correlation networks},
   author={Williams, Donald R},
@@ -86,8 +86,38 @@ icon_link(
 )
 ```
 
+<br>
 
+**Williams, D. R.** (2021) Bayesian Estimation for Gaussian Graphical Models: 
+Structure Learning, Predictability, and Network Comparisons, Multivariate Behavioral Research, 56:2, 336-352,  `r doi("10.1080/00273171.2021.1894412")` 
 
+```
+@article{,
+  title={Bayesian estimation for Gaussian graphical models: Structure learning, predictability, and   network comparisons},
+  author={Williams, Donald R},
+  journal={Multivariate Behavioral Research},
+  volume={56},
+  number={2},
+  pages={336--352},
+  year={2021},
+  publisher={Taylor \& Francis},
+  doi = {10.1080/00273171.2021.1894412}
+}
+```
+
+```{r, echo=FALSE}
+icon_link(
+    icon = "fa fa-file-pdf",
+    text = "PDF",
+    url  = "https://psyarxiv.com/x8dpr/download"
+)
+
+icon_link(
+    icon = "ai ai-osf",
+    text = "Code",
+    url  = "https://osf.io/k9mv2/"
+)
+```
 
 
 
