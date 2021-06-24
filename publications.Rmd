@@ -665,4 +665,85 @@ icon_link(
 ```
 
 
+<br>
 
+**Williams, D. R.**, Rhemtulla, M., Wysocki, A. C., & Rast, P. (2019). On nonregularized estimation of psychological networks. *Multivariate behavioral research*, 54(5), 719-750. `r doi("10.1080/00273171.2019.1575716")`.
+
+```
+@article{,
+  title={On nonregularized estimation of psychological 
+         networks},
+  author={Williams, Donald R and Rhemtulla, Mijke and 
+          Wysocki, Anna C and Rast, Philippe},
+  journal={Multivariate behavioral research},
+  volume={54},
+  number={5},
+  pages={719--750},
+  year={2019},
+  doi={10.1080/00273171.2019.1575716}
+}
+```
+
+```{r, echo=FALSE}
+icon_link(
+    icon = "fa fa-file-pdf",
+    text = "PDF",
+    url  = "https://psyarxiv.com/xr2vf/download"
+)
+
+icon_link(
+    icon = "fab fa-github",
+    text = "Repo",
+    url  = "https://github.com/donaldRwilliams/on_nonregularized_networks"
+)
+
+icon_link(
+    icon = "fas fa-external-link-alt",
+    text = "CRAN",
+    url  = "https://cran.r-project.org/web/packages/GGMnonreg/index.html"
+)
+
+icon_link(
+    icon = "fab fa-github",
+    text = "GitHub",
+    url  = "https://github.com/donaldRwilliams/GGMnonreg"
+)
+```
+
+
+<br>
+
+Nalborczyk, L., Burkner, P. C., & **Williams, D. R.** (2019). Pragmatism 
+should not be a substitute for statistical literacy, a commentary on Albers, 
+Kiers, and van Ravenzwaaij (2019). *Collabra: Psychology*,
+5(1). `r doi("10.1525/collabra.197")`
+
+
+```
+@article{,
+  title={Pragmatism should not be a substitute for statistical 
+         literacy, a commentary on Albers, Kiers, and 
+         van Ravenzwaaij (2018)},
+  author={Nalborczyk, Ladislas and B{\"u}rkner, Paul-Christian 
+          and Williams, Donald R and Savalei, Victoria},
+  journal={Collabra: Psychology},
+  volume={5},
+  number={1},
+  year={2019},
+  doi={10.1525/collabra.197}
+}
+```
+
+```{r, echo=FALSE}
+icon_link(
+    icon = "fa fa-file-pdf",
+    text = "PDF",
+    url  = "https://online.ucpress.edu/collabra/article-pdf/5/1/13/437386/197-2975-1-pb.pdf"
+)
+
+icon_link(
+    icon = "ai ai-osf",
+    text = "Repo",
+    url  = "https://osf.io/nmp6x/"
+)
+```

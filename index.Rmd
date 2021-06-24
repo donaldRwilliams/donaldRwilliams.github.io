@@ -35,7 +35,9 @@ I am a _____ (researcher; PhD student) based at ______.  For a detailed bio, ple
 `r gscholar_stats("https://scholar.google.com/citations?user=IjPXPAMAAAAJ&hl=en")`
 </center>
 
-<!-- `r aside_center("Source: Google Scholar")` -->
+
+<hr size="3" width="75%" color="#EAE9EA">  
+
 
 <center>
 ```{r, echo=FALSE}
