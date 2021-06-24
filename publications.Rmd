@@ -709,7 +709,7 @@ icon_link(
 
 <hr style="width:35%;text-align:left;margin-left:15">  
 
-Nalborczyk, L., Burkner, P. C., & **Williams, D. R.** (2019). Pragmatism 
+Nalborczyk, L., Burkner, P. C., & **Williams, D. R.** (2019). Pragmatism 
 should not be a substitute for statistical literacy, a commentary on Albers, 
 Kiers, and van Ravenzwaaij (2019). *Collabra: Psychology*,
 5(1). `r doi("10.1525/collabra.197")`
@@ -781,3 +781,107 @@ icon_link(
     url  = "https://osf.io/emz4r/"
 )
 ```
+
+
+<hr style="width:35%;text-align:left;margin-left:15">  
+
+Lakens, D., Adol, F. G., Albers, C. J., Anvari, F., Apps, M. A., Argamon, S. E., ... & Buchanan, E. M. (2018). Justify your alpha. *Nature Human Behaviour*, 2(3), 168.
+
+
+```
+@article{,
+  title={Justify your alpha},
+  author={Lakens, Daniel and Adolfi, Federico G and Albers, 
+          Casper J and Anvari, Farid and Apps, Matthew AJ 
+          and Argamon, Shlomo E and Baguley, Thom and Becker, 
+          Raymond B and Benning, Stephen D and Bradford, 
+          Daniel E and others},
+  journal={Nature Human Behaviour},
+  volume={2},
+  number={3},
+  pages={168--171},
+  year={2018},
+  doi={10.1038/s41562-018-0311-x}
+}
+```
+
+```{r, echo=FALSE}
+icon_link(
+    icon = "fa fa-file-pdf",
+    text = "PDF",
+    url  = "https://psyarxiv.com/9s3y6/download"
+)
+
+icon_link(
+    icon = "ai ai-osf",
+    text = "Repo",
+    url  = "https://osf.io/by2kc/"
+)
+```
+
+
+<hr style="width:35%;text-align:left;margin-left:15"> 
+
+Carlsson, R., Agerstrom, J., **Williams, D.R**, & Burns, G. N. (2018). A Primer on the benenits of differential treatment analysis when predicting discriminatory behavior. *Quantitative Methods for Psychology*, 14(3), 193-198. 
+`r doi("10.20982/tqmp.14.3.p193")`.
+
+```
+@article{,
+  title={A Primer on the benefits of differential treatment analysis 
+         when predicting discriminatory behavior},
+  author={Carlsson, Rickard and Agerstr{\"o}m, Jens and Williams, 
+          Donald and Burns, Gary N},
+  journal={Quantitative Methods for Psychology},
+  volume={14},
+  number={3},
+  pages={193--198},
+  year={2018},
+  doi={10.20982/tqmp.14.3.p193}
+}
+```
+
+```{r, echo=FALSE}
+icon_link(
+    icon = "fa fa-file-pdf",
+    text = "PDF",
+    url  = "http://www.tqmp.org/RegularArticles/vol14-3/p193/p193.pdf"
+)
+```
+
+
+<hr style="width:35%;text-align:left;margin-left:15"> 
+
+
+Merritt, J. R., Davis, M. T., Jalabert, C., Libecap, T. J., **Williams, D. R.**, Soma, K. K., & Maney, D. L. (2018). Rapid effects of estradiol on aggression 
+depend on genotype in a species with an estrogen receptor polymorphism. 
+Hormones and behavior, 98, 210-218. `r doi("10.1016/j.yhbeh.2017.11.014")``
+
+```
+@article{merritt2018rapid,
+  title={Rapid effects of estradiol on aggression depend 
+         on genotype in a species with an estrogen receptor 
+         polymorphism},
+  author={Merritt, Jennifer R and Davis, Matthew T and 
+          Jalabert, Cecilia and Libecap, Timothy J and Williams, 
+          Donald R and Soma, Kiran K and Maney, Donna L},
+  journal={Hormones and behavior},
+  volume={98},
+  pages={210--218},
+  year={2018},
+  doi={10.1016/j.yhbeh.2017.11.014}
+}
+```
+
+
+```{r, echo=FALSE}
+icon_link(
+    icon = "fas fa-external-link-alt",
+    text = "Journal",
+    url  = "https://www.sciencedirect.com/science/article/abs/pii/S0018506X17303501"
+)
+```
+
+
+<hr style="width:35%;text-align:left;margin-left:15">  
+
+### 2017
