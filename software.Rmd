@@ -283,7 +283,7 @@ icon_link(
 icon_link(
     icon = "fab fa-github",
     text = "GitHub",
-    url  = "https://github.com/donaldRwilliams/BFpack"
+    url  = "https://github.com/jomulder/BFpack"
 )
 ```
 
@@ -311,7 +311,7 @@ icon_link(
 icon_link(
     icon = "fab fa-github",
     text = "GitHub",
-    url  = "https://github.com/donaldRwilliams/bayeslincom"
+    url  = "https://github.com/josue-rodriguez/bayeslincom"
 )
 ```
 
