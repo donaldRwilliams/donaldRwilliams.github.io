@@ -91,7 +91,7 @@ icon_link(
 ```
 
 
-<hr style="width:35%;text-align:left;margin-left:10">>  
+<hr style="width:35%;text-align:left;margin-left:15">  
 
 **Williams, D. R.** (2021) Bayesian Estimation for Gaussian Graphical Models: 
 Structure Learning, Predictability, and Network Comparisons, Multivariate Behavioral Research, 56:2, 336-352,  `r doi("10.1080/00273171.2021.1894412")` 
