@@ -90,6 +90,9 @@ icon_link(
 )
 ```
 
+
+<hr size="3" width="75%" color="#EAE9EA" align="center">  
+
 <br>
 
 **Williams, D. R.** (2021) Bayesian Estimation for Gaussian Graphical Models: 
@@ -745,5 +748,46 @@ icon_link(
     icon = "ai ai-osf",
     text = "Repo",
     url  = "https://osf.io/nmp6x/"
+)
+```
+
+
+
+
+<br>
+
+### 2018
+
+Quintana, D. S., & **Williams, D. R.** (2018). Bayesian alternatives for 
+common null-hypothesis significance tests in psychiatry: a non-technical 
+guide using JASP. BMC psychiatry, 18(1), 178. 
+`r doi("10.1186/s12888-018-1761-4")`
+
+```
+@article{,
+  title={Bayesian alternatives for common null-hypothesis significance 
+         tests in psychiatry: a non-technical guide using JASP},
+  author={Quintana, Daniel S and Williams, Donald R},
+  journal={BMC psychiatry},
+  volume={18},
+  number={1},
+  pages={1--8},
+  year={2018},
+  doi={10.1186/s12888-018-1761-4}
+}
+```
+
+
+```{r, echo=FALSE}
+icon_link(
+    icon = "fa fa-file-pdf",
+    text = "PDF",
+    url  = "https://bmcpsychiatry.biomedcentral.com/track/pdf/10.1186/s12888-018-1761-4.pdf"
+)
+
+icon_link(
+    icon = "ai ai-osf",
+    text = "Repo",
+    url  = "https://osf.io/emz4r/"
 )
 ```
