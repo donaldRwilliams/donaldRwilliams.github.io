@@ -303,6 +303,104 @@ icon_link(
 ```
 
 
+<br>
+
+**Williams, D. R.** & Joris Mulder. Bayesian Hypothesis Testing for Gaussian Graphical Models: Conditional Independence and Order Constraints. *Journal of Mathematical Psychology*, 99, 102441. `r doi("10.1016/j.jmp.2020.102441")``
+
+```
+@article{,
+  title={Bayesian hypothesis testing for Gaussian graphical models: 
+         Conditional independence and order constraints},
+  author={Williams, Donald R and Mulder, Joris},
+  journal={Journal of Mathematical Psychology},
+  volume={99},
+  pages={102441},
+  year={2020},
+  publisher={Elsevier},
+  doi = {10.1016/j.jmp.2020.102441}
+}
+```
+
+```{r, echo=FALSE}
+icon_link(
+    icon = "fa fa-file-pdf",
+    text = "PDF",
+    url  = "https://psyarxiv.com/ypxd8/download"
+)
+
+icon_link(
+    icon = "fas fa-external-link-alt",
+    text = "CRAN",
+    url  = "https://cran.r-project.org/web/packages/BGGM/index.html"
+)
+
+icon_link(
+    icon = "fab fa-github",
+    text = "GitHub",
+    url  = "https://github.com/donaldRwilliams/BGGM"
+)
+
+icon_link(
+    icon = "fas fa-external-link-alt",
+    text = "Website",
+    url  = "https://donaldrwilliams.github.io/BGGM/"
+)
+```
+
+
+<br>
+
+**Williams, D. R.**, Rast, P., Pericchi, L. R., & Mulder, J. (2020). 
+Comparing Gaussian graphical models with the posterior predictive 
+distribution and Bayesian model selection. *Psychological methods*.
+`r doi("10.1037/met0000254")``
+
+```
+@article{williams2020comparing,
+  title={Comparing Gaussian graphical models with the posterior 
+  predictive distribution and Bayesian model selection.},
+  author={Williams, DR and Rast, P and Pericchi, LR and Mulder, J},
+  journal={Psychological Methods},
+  volume={25},
+  number={5},
+  pages={653--672},
+  year={2020},
+  doi={10.1037/met0000254}
+}
+```
+
+```{r, echo=FALSE}
+icon_link(
+    icon = "fa fa-file-pdf",
+    text = "PDF",
+    url  = "https://psyarxiv.com/yt386/download"
+)
+
+icon_link(
+    icon = "ai ai-osf",
+    text = "Repo",
+    url  = "https://osf.io/7hyr4/"
+  )
+
+icon_link(
+    icon = "fas fa-external-link-alt",
+    text = "CRAN",
+    url  = "https://cran.r-project.org/web/packages/BGGM/index.html"
+)
+
+icon_link(
+    icon = "fab fa-github",
+    text = "GitHub",
+    url  = "https://github.com/donaldRwilliams/BGGM"
+)
+
+icon_link(
+    icon = "fas fa-external-link-alt",
+    text = "Website",
+    url  = "https://donaldrwilliams.github.io/BGGM/"
+)
+```
+
 
 ## Pre-Prints
 
