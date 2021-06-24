@@ -44,15 +44,15 @@ source("R/functions.R")
 
 
 
-<center>
-```{r, echo=FALSE}
-icon_link(
-    icon = "ai ai-google-scholar",
-    text = "Google Scholar",
-    url  = "https://scholar.google.com/citations?user=IjPXPAMAAAAJ&hl=en"
-)
-```
-</center>
+<!-- <center> -->
+<!-- ```{r, echo=FALSE} -->
+<!-- icon_link( -->
+<!--     icon = "ai ai-google-scholar", -->
+<!--     text = "Google Scholar", -->
+<!--     url  = "https://scholar.google.com/citations?user=IjPXPAMAAAAJ&hl=en" -->
+<!-- ) -->
+<!-- ``` -->
+<!-- </center> -->
 
 
 
@@ -106,8 +106,7 @@ Structure Learning, Predictability, and Network Comparisons, Multivariate Behavi
 ```
 @article{,
   title={Bayesian estimation for Gaussian graphical models: 
-         Structure learning, predictability, and network 
-         comparisons},
+         Structure learning, predictability, and network comparisons},
   author={Williams, Donald R},
   journal={Multivariate Behavioral Research},
   volume={56},
@@ -273,6 +272,45 @@ icon_link(
 )
 
 ```
+
+
+<br>
+
+**Williams, D. R.**, Mulder, J., Rouder, J. N., & Rast, P. (2020). 
+Beneath the surface: Unearthing within-person variability and mean 
+relations with Bayesian mixed models. *Psychological Methods*. 
+`r doi("10.1037/met0000270")`
+
+These analyses are reproduced at the GitHub repo.
+
+```
+@article{,
+  title={Beneath the surface: Unearthing within-person variability 
+         and mean relations with Bayesian mixed models.},
+  author={Williams, Donald R and Mulder, Joris and Rouder, 
+         Jeffrey N and Rast, Philippe},
+  journal={Psychological Methods},
+  year={2020},
+  publisher={American Psychological Association},
+  doi={10.1037/met0000270}
+}
+```
+
+```{r, echo=FALSE}
+icon_link(
+    icon = "fa fa-file-pdf",
+    text = "PDF",
+    url  = "https://psyarxiv.com/gwatq/download"
+)
+
+icon_link(
+    icon = "fab fa-github",
+    text = "GitHub",
+    url  = "https://github.com/donaldRwilliams/hypMuVar"
+)
+```
+
+
 
 ## Pre-Prints
 
