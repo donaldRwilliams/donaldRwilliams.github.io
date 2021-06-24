@@ -63,8 +63,8 @@ Expected Replicability in Partial Correlation Networks. *Psychological Methods*.
 
 ```
 @article{,
-  title={Learning to live with sampling variability: Expected replicability 
-         in partial correlation networks},
+  title={Learning to live with sampling variability: Expected 
+         replicability in partial correlation networks},
   author={Williams, Donald R},
   year={2020},
   journal={PsyArXiv},
@@ -94,7 +94,8 @@ Structure Learning, Predictability, and Network Comparisons, Multivariate Behavi
 ```
 @article{,
   title={Bayesian estimation for Gaussian graphical models: 
-  Structure learning, predictability, and   network comparisons},
+         Structure learning, predictability, and network 
+         comparisons},
   author={Williams, Donald R},
   journal={Multivariate Behavioral Research},
   volume={56},
@@ -120,6 +121,49 @@ icon_link(
 )
 ```
 
+<br>
+
+*Williams, D. R.*, Martin, S. R., & Rast, P. (in press). Putting the Individual into Reliability: Bayesian Testing of Homogeneous Within-Person Variance in Hierarchical Models. *Behavior Research Methods*.
+
+
+```
+@article{,
+  title={Putting the individual into reliability: 
+         Bayesian testing of homogeneous within-person 
+         variance in hierarchical models},
+  author={Williams, Donald R and Martin, Stephen R and 
+          Rast, Philippe},
+  year={2019},
+  publisher={PsyArXiv},
+  doi={10.31234/osf.io/hpq7w}
+}
+```
+
+```{r, echo=FALSE}
+icon_link(
+    icon = "fa fa-file-pdf",
+    text = "PDF",
+    url  = "https://psyarxiv.com/hpq7w/download"
+)
+
+icon_link(
+    icon = "ai ai-osf",
+    text = "Repo",
+    url  = "https://osf.io/2qesh/"
+)
+
+icon_link(
+    icon = "fas fa-external-link-alt",
+    text = "CRAN",
+    url  = "https://cran.r-project.org/web/packages/GGMncv/index.html"
+)
+
+icon_link(
+    icon = "fab fa-github",
+    text = "GitHub",
+    url  = "https://github.com/donaldRwilliams/vICC"
+)
+```
 
 
 
