@@ -44,15 +44,7 @@ source("R/functions.R")
 
 
 
-<!-- <center> -->
-<!-- ```{r, echo=FALSE} -->
-<!-- icon_link( -->
-<!--     icon = "ai ai-google-scholar", -->
-<!--     text = "Google Scholar", -->
-<!--     url  = "https://scholar.google.com/citations?user=IjPXPAMAAAAJ&hl=en" -->
-<!-- ) -->
-<!-- ``` -->
-<!-- </center> -->
+
 
 
 

@@ -18,6 +18,8 @@ output:
   postcards::trestles
 ---
 
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons/css/academicons.min.css">
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 source(file.path("R", "functions.R"))
@@ -34,4 +36,14 @@ I am a _____ (researcher; PhD student) based at ______.  For a detailed bio, ple
 </center>
 
 `r aside_center("Source: Google Scholar")`
+
+<center>
+```{r, echo=FALSE}
+icon_link(
+    icon = "ai ai-google-scholar",
+    text = "Google Scholar",
+    url  = "https://scholar.google.com/citations?user=IjPXPAMAAAAJ&hl=en"
+)
+```
+</center>
 
