@@ -1,0 +1,96 @@
+---
+title: "Publications"
+favicon: images/headphones.JPG
+output:
+  distill::distill_article:
+    toc: true
+    toc_depth: 2
+    css:
+      - css/custom.css
+---
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons/css/academicons.min.css">
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+source(file.path("R", "functions.R"))
+library(distilltools)
+```
+
+```{r metathis, message=FALSE, warning=FALSE, include=FALSE}
+library(metathis)
+meta() %>%
+  meta_description(
+    "Open-Source Software"
+  ) %>%
+  meta_name("github-repo" = "donaldRwilliams/donaldRwilliams.github.io") %>%
+  meta_viewport() %>%
+  meta_social(
+    title = "DRW: Software",
+    url = "https://donaldrwilliams.github.io/publications.html",
+    image = "https://donaldrwilliams.github.io/images/pub_preview.png",
+    image_alt = "A photo of DRW",
+    og_type = "website",
+    og_author = c("Donald R. Williams"),
+    twitter_card_type = "summary",
+    twitter_creator = "@wdonald_1985"
+  )
+```
+
+```{r, include=FALSE}
+library(htmltools)
+source("R/functions.R")
+```
+
+
+
+<center>
+```{r, echo=FALSE}
+icon_link(
+    icon = "ai ai-google-scholar",
+    text = "Google Scholar",
+    url  = "https://scholar.google.com/citations?user=IjPXPAMAAAAJ&hl=en"
+)
+```
+</center>
+
+
+
+## Peer-Reviewed
+
+**Williams, D. R.** (in press). Learning to Live with Sampling Variability: 
+Expected Replicability in Partial Correlation Networks. *Psychological Methods*.
+
+```
+@article{williams2020learning,
+  title={Learning to live with sampling variability: Expected replicability 
+         in partial correlation networks},
+  author={Williams, Donald R},
+  year={2020},
+  journal={PsyArXiv},
+  doi={10.31234/osf.io/fb4sa}
+}
+```
+
+```{r, echo=FALSE}
+icon_link(
+    icon = "fa fa-file-pdf",
+    text = "PDF",
+    url  = "https://psyarxiv.com/fb4sa/download"
+)
+
+icon_link(
+    icon = "ai ai-osf",
+    text = "Code",
+    url  = "https://osf.io/uedkj/"
+)
+```
+
+
+
+
+
+
+
+## Pre-Prints
+
