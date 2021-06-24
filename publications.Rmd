@@ -501,5 +501,168 @@ icon_link(
 )
 ```
 
-## Pre-Prints
+<br>
+
+**Williams, D. R.**, & Burkner, P. (2020). Coding errors lead to unsupported conclusions: a critique of Hofmann et al. (2015). Meta-Psychology, 4.
+`r doi("10.15626/MP.2018.872")`.
+
+```
+@article{,
+  title={Coding errors lead to unsupported conclusions: 
+         a critique of Hofmann et al.(2015)},
+  author={Williams, Donald and B{\"u}rkner, Paul-Christian},
+  journal={Meta-Psychology},
+  volume={4},
+  year={2020},
+  doi={10.15626/MP.2018.872}
+}
+```
+
+```{r, echo=FALSE}
+icon_link(
+    icon = "fa fa-file-pdf",
+    text = "PDF",
+    url  = "https://open.lnu.se/index.php/metapsychology/article/view/872/2286"
+)
+
+icon_link(
+    icon = "ai ai-osf",
+    text = "Repo",
+    url  = "https://osf.io/kd3en/"
+)
+```
+
+
+<br>
+
+Briganti, G., **Williams, D. R.**, Mulder, J., & Linkowski, P. (2020). Bayesian network structure and predictability of autistic traits.
+*Psychological Reports*. `r doi("10.1177/0033294120978159")`.
+
+```
+@article{,
+  title={Bayesian network structure and predictability
+         of autistic traits},
+  author={Briganti, Giovanni and Williams, Donald R
+          and Mulder, Joris and Linkowski, Paul},
+  journal={Psychological Reports},
+  year={2020},
+  doi={10.1177/0033294120978159}
+}
+```
+
+<br>
+
+Jones, P. J., Williams, D. R., & McNally, R. J. (2020).
+Sampling variability is not nonreplication: A Bayesian reanalysis
+of Forbes, Wright, Markon, and Krueger.
+*Multivariate Behavioral Research*, 1-7.
+`r doi("10.1080/00273171.2020.1797460")`
+
+
+```
+@article{,
+  title={Sampling variability is not nonreplication: A Bayesian
+         reanalysis of Forbes, Wright, Markon, and Krueger},
+  author={Jones, Payton J and Williams, Donald R and McNally, Richard J},
+  journal={Multivariate Behavioral Research},
+  pages={1--7},
+  year={2020},
+  publisher={Taylor \& Francis},
+  doi={10.1080/00273171.2020.1797460}
+}
+```
+
+```{r, echo=FALSE}
+icon_link(
+    icon = "fa fa-file-pdf",
+    text = "PDF",
+    url  = "https://psyarxiv.com/egwfj/download"
+)
+
+icon_link(
+    icon = "ai ai-osf",
+    text = "Repo",
+    url  = "https://osf.io/g5etn/"
+)
+```
+
+
+<br>
+
+
+Rast, P., Martin, S. R., Liu, S., & **Williams, D. R.** (2020). A new
+frontier for studying within-person variability: Bayesian multivariate
+generalized autoregressive conditional heteroskedasticity models.
+*Psychological Methods*. `r doi("10.1037/met0000357")``
+
+
+```
+@article{,
+  title={A new frontier for studying within-person
+         variability: Bayesian multivariate generalized
+         autoregressive conditional heteroskedasticity
+         models.},
+  author={Rast, P and Martin, SR and Liu, S and Williams, DR},
+  journal={Psychological Methods},
+  year={2020},
+  doi = {10.1037/met0000357}
+}
+```
+
+```{r, echo=FALSE}
+icon_link(
+    icon = "fa fa-file-pdf",
+    text = "PDF",
+    url  = "https://psyarxiv.com/j57pk/download"
+)
+
+icon_link(
+    icon = "ai ai-osf",
+    text = "Repo",
+    url  = "https://osf.io/nef2q/"
+)
+
+icon_link(
+    icon = "fab fa-github",
+    text = "GitHub",
+    url  = "https://github.com/ph-rast/bmgarch"
+)
+```
+
+
+<br>
+
+### 2019
+
+**Williams, D. R.**, Zimprich, D. R., & Rast, P. (2019). 
+A Bayesian nonlinear mixed-effects location
+scale model for learning. *Behavior research methods*, 51(5), 
+1968-1986. `r doi("10.3758/s13428-019-01255-9")`.
+
+
+```
+@article{,
+  title={A Bayesian nonlinear mixed-effects location 
+         scale model for learning},
+  author={Williams, Donald R and Zimprich, Daniel R 
+          and Rast, Philippe},
+  journal={Behavior research methods},
+  volume={51},
+  number={5},
+  pages={1968--1986},
+  year={2019}, 
+  doi{10.3758/s13428-019-01255-9}
+}
+```
+
+
+```{r, echo=FALSE}
+icon_link(
+    icon = "fa fa-file-pdf",
+    text = "PDF",
+    url  = "https://link.springer.com/content/pdf/10.3758/s13428-019-01255-9.pdf"
+)
+```
+
+
 
