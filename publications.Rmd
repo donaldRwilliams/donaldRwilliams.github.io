@@ -209,7 +209,8 @@ European Journal of Psychological Assessment. 36 (6). `r doi("10.1027/1015-5759/
   title={Bayesian Multivariate Mixed-Effects Location 
          Scale Modeling of Longitudinal Relations among 
          Affective Traits, States, and Physical Activity},
-  author={Williams, Donald R and Martin, Stephen R and Liu, Siwei and Rast, Philippe},
+  author={Williams, Donald R and Martin, Stephen R and Liu, 
+          Siwei and Rast, Philippe},
   journal={European Journal of Psychological Assessment},
   year={2021},
   publisher={Hogrefe Publishing},
@@ -232,7 +233,46 @@ icon_link(
 )
 ```
 
+<br>
 
+Mulder, J., **Williams, D. R.**, Gu, X., Olsson-Collentine, A., Tomarken, A., 
+Boing-Messing, F., Hoijtink, H., ... & van Lissa, C. (in press). BFpack: Flexible bayes factor testing of scientific theories
+in R. *Journal of Statistical Software*.
+
+```
+@article{mulder2019bfpack,
+  title={BFpack: Flexible bayes factor testing 
+         of scientific theories in r},
+  author={Mulder, Joris and Gu, Xin and Olsson-Collentine, 
+          Anton and Tomarken, Andrew and B{\"o}ing-Messing, 
+          Florian and Hoijtink, Herbert and Meijerink, Marlyne 
+          and Williams, Donald R and Menke, Janosch and Fox, 
+          Jean-Paul and others},
+  journal={arXiv preprint arXiv:1911.07728},
+  year={2019}
+}
+```
+
+```{r, echo=FALSE}
+icon_link(
+    icon = "fa fa-file-pdf",
+    text = "PDF",
+    url  = "https://arxiv.org/pdf/1911.07728"
+)
+
+icon_link(
+    icon = "fas fa-external-link-alt",
+    text = "CRAN",
+    url  = "https://cran.r-project.org/web/packages/BFpack/index.html"
+)
+
+icon_link(
+    icon = "fab fa-github",
+    text = "GitHub",
+    url  = "https://github.com/jomulder/BFpack"
+)
+
+```
 
 ## Pre-Prints
 
