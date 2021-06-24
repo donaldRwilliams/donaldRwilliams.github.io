@@ -91,7 +91,7 @@ icon_link(
 ```
 
 
-<hr size="3" width="75%" color="#EAE9EA" align="center">  
+<hr size="3" width="10%" color="#EAE9EA" align="center">  
 
 <br>
 
