@@ -52,9 +52,9 @@ source("R/functions.R")
 
 First author: 16 (with several in review. see pre-prints)
 
-* Highlights  
-  + Psychological Methods: 3 (including 1 solo-author)
-  + Multivariate Behavioral Research: 2 (including 1 solo-author)
+* Highlights  (all first author)
+  + Psychological Methods: 3 (including 1 solo author)
+  + Multivariate Behavioral Research: 2 (including 1 solo author)
   + Behavior Research Methods: 2
   + Journal of Mathematical Psychology: 1
 
