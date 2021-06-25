@@ -52,14 +52,17 @@ source("R/functions.R")
 
 First author: 16 
 
-<font size="2"> (note: 9 more are in review. see pre-prints)</font> 
 
 
 * Highlights  (all first author)
+
+<font size="2"> (note: 9 more are in review. see pre-prints)</font> 
+  
   + Psychological Methods: 3 (including 1 solo author)
   + Multivariate Behavioral Research: 2 (including 1 solo author)
   + Behavior Research Methods: 2
   + Journal of Mathematical Psychology: 1
+
 
 <hr style="width:35%;text-align:left;margin-left:15">  
 
@@ -1163,3 +1166,26 @@ icon_link(
     url  = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5612182/pdf/yjbm_90_3_373.pdf"
 )
 ```
+
+
+<br>
+
+## Pre-Prints
+
+
+First author: X
+
+
+
+* Highlights  (all first author)
+
+
+
+<hr style="width:35%;text-align:left;margin-left:15">
+
+### 2021
+
+Williams, D. R., Rodriguez, J. E., & Burkner, P. (2021). Putting Variation into Variance:
+Modeling Between-Study Heterogeneity in Meta-Analysis. PsyArXiv
+
+*Psychological Methods*: submitted
