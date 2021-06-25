@@ -922,3 +922,37 @@ icon_link(
 )
 ```
 
+<hr style="width:35%;text-align:left;margin-left:15">  
+
+**Williams, D. R.**, & Burkner, P. C. (2017). Effects of intranasal oxytocin 
+on symptoms of schizophrenia: a multivariate Bayesian meta-analysis. *Psychoneuroendocrinology*, 75, 141-151. 
+`r doi("10.1016/j.psyneuen.2016.10.013")`
+
+
+```
+@article{williams2017effects,
+  title={Effects of intranasal oxytocin on symptoms of 
+         schizophrenia: A multivariate Bayesian 
+         meta-analysis},
+  author={Williams, Donald R and B{\"u}rkner, Paul-Christian},
+  journal={Psychoneuroendocrinology},
+  volume={75},
+  pages={141--151},
+  year={2017},
+  doi={10.1016/j.psyneuen.2016.10.013}
+}
+```
+
+```{r, echo=FALSE}
+icon_link(
+    icon = "fa fa-file-pdf",
+    text = "PDF",
+    url  = "https://osf.io/qf5zn/download"
+)
+
+icon_link(
+    icon = "ai ai-osf",
+    text = "Repo",
+    url  = "https://osf.io/6pyfu/"
+)
+```
