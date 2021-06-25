@@ -49,7 +49,6 @@ source("R/functions.R")
 href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons/css/academicons.min.css">
 
 
-
 ## Peer-Reviewed
 
 First author: 16 
@@ -1238,7 +1237,7 @@ icon_link(
 the Spike and Slab to Bayesian Hypothesis Testing with Multinoulli 
 Indicators. *PsyArXiv*. `r doi("10.31234/osf.io/xcvby")`
 
-*Behavior Research Methods*: submitted
+*Behavior Research Methods*: in review
 
 ```
 @article{,
@@ -1265,8 +1264,9 @@ icon_link(
 <hr style="width:35%;text-align:left;margin-left:15">  
 
 **Williams, D. R.** (2021). GGMnonreg: Non-Regularized Gaussian 
-Graphical Models in R. `r doi("10.31234/osf.io/p5jk9")`.
+Graphical Models in R. *PsyArXiv*. `r doi("10.31234/osf.io/p5jk9")`.
 
+*Journal of Open-Source Software*: in review
 
 ```
 @article{,
@@ -1277,7 +1277,6 @@ Graphical Models in R. `r doi("10.31234/osf.io/p5jk9")`.
   doi={10.31234/osf.io/p5jk9}
 }
 ```
-
 
 ```{r, echo=FALSE}
 icon_link(
@@ -1296,5 +1295,88 @@ icon_link(
     icon = "fab fa-github",
     text = "GitHub",
     url  = "https://github.com/donaldRwilliams/GGMnonreg"
+)
+```
+
+
+<hr style="width:35%;text-align:left;margin-left:15">  
+
+
+**Williams, D. R.** (2021). The Confidence Interval that Wasn't: 
+Bootstrapped Confidence Intervals" in L1-Regularized Partial 
+Correlation Networks. *PsyArXiv*. 
+`r doi("10.31234/osf.io/kjh2f")``
+
+*Psychological Methods*: submitted
+
+The code to reproduce the simulations is on GitHub.
+
+```
+@article{williams2021confidence,
+  title={The Confidence Interval that Wasn’t: Bootstrapped 
+         “Confidence Intervals” in L1-Regularized 
+         Partial Correlation Networks},
+  author={Williams, Donald R},
+  year={2021},
+  journal={PsyArXiv},
+  doi={10.31234/osf.io/kjh2f}
+}
+```
+
+
+
+```{r, echo=FALSE}
+icon_link(
+    icon = "fa fa-file-pdf",
+    text = "PDF",
+    url  = "https://psyarxiv.com/kjh2f/download"
+)
+
+icon_link(
+    icon = "fab fa-github",
+    text = "GitHub",
+    url  = "https://github.com/donaldRwilliams/no_confidence_lasso"
+)
+```
+
+
+
+<hr style="width:35%;text-align:left;margin-left:15">  
+
+**Williams, D. R.**, Briganti, G., Linkowski, P., & Mulder, J. 
+(2021). On Accepting the Null Hypothesis of Conditional 
+Independence 
+in Partial Correlation Networks: A Bayesian Analysis.
+*PsyArXiv*. `r doi("10.31234/osf.io/7uhx8")`
+
+
+*Multivariate Behavioral Research*: in review
+
+```
+@article{,
+  title={On Accepting the Null Hypothesis of Conditional 
+         Independence in Partial Correlation Networks: 
+         A Bayesian Analysis},
+  author={Williams, Donald R and Briganti, 
+          Giovanni and Linkowski, Paul 
+          and Mulder, Joris},
+  year={2021},
+  journal={PsyArXiv},
+  doi={10.31234/osf.io/7uhx8}
+}
+```
+
+
+```{r, echo=FALSE}
+icon_link(
+    icon = "fa fa-file-pdf",
+    text = "PDF",
+    url  = "https://psyarxiv.com/7uhx8/download"
+)
+
+icon_link(
+    icon = "ai ai-osf",
+    text = "Repo",
+    url  = "https://osf.io/yz5u9/"
 )
 ```
