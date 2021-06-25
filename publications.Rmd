@@ -50,7 +50,10 @@ source("R/functions.R")
 
 ## Peer-Reviewed
 
-First author: 16 (with several in review. see pre-prints)
+First author: 16 
+
+<font size="2"> (note: 9 more are in review. see pre-prints)</font> 
+
 
 * Highlights  (all first author)
   + Psychological Methods: 3 (including 1 solo author)
@@ -1123,6 +1126,7 @@ icon_link(
 ```
 
 
+
 <hr style="width:35%;text-align:left;margin-left:15">  
 
 Bales, K. L., del Razo, R. A., Conklin, Q. A., Hartman, S., 
@@ -1131,3 +1135,31 @@ Focus: Comparative medicine: Titi monkeys as a novel non-human
 primate model for the neurobiology of pair bonding. 
 The Yale journal of biology and medicine, 90(3), 373.
 
+
+
+```
+@article{,
+  title={Focus: comparative medicine: Titi monkeys as a 
+         novel non-human primate model for the neurobiology 
+         of pair bonding},
+  author={Bales, Karen L and Del Razo, Roc{\'\i}o Arias and 
+          Conklin, Quinn A and Hartman, Sarah and Mayer, 
+          Heather S and Rogers, Forrest D and Simmons, Trenton 
+          C and Smith, Leigh K and Williams, Alexia and Williams, 
+          Donald R and others},
+  journal={The Yale journal of biology and medicine},
+  volume={90},
+  number={3},
+  pages={373},
+  year={2017},
+}
+```
+
+
+```{r, echo=FALSE}
+icon_link(
+    icon = "fa fa-file-pdf",
+    text = "PDF",
+    url  = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5612182/pdf/yjbm_90_3_373.pdf"
+)
+```
