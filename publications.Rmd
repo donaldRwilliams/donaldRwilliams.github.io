@@ -61,7 +61,6 @@ First author: 16
 <font size="2"> (note: 9 first author manuscripts are in review. 
 see pre-prints.)</font> 
 
-<hr style="width:35%;text-align:left;margin-left:15">  
 
 ### 2021
 **Williams, D. R.** (in press). Learning to Live with Sampling Variability: 
