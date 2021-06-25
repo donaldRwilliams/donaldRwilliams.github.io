@@ -126,18 +126,18 @@ Structure Learning, Predictability, and Network Comparisons, Multivariate Behavi
 }
 ```
 
+<!-- icon_link( -->
+<!--     icon = "ai ai-osf", -->
+<!--     text = "Repo", -->
+<!--     url  = "https://osf.io/k9mv2/" -->
+<!--   ) -->
+
 ```{r, echo=FALSE}
 icon_link(
     icon = "fa fa-file-pdf",
     text = "PDF",
     url  = "https://psyarxiv.com/x8dpr/download"
 )
-
-icon_link(
-    icon = "ai ai-osf",
-    text = "Repo",
-    url  = "https://osf.io/k9mv2/"
-  )
 
 icon_link(
     icon = "fas fa-external-link-alt",
@@ -176,17 +176,17 @@ icon_link(
 }
 ```
 
+<!-- icon_link( -->
+<!--     icon = "ai ai-osf", -->
+<!--     text = "Repo", -->
+<!--     url  = "https://osf.io/2qesh/" -->
+<!-- ) -->
+
 ```{r, echo=FALSE}
 icon_link(
     icon = "fa fa-file-pdf",
     text = "PDF",
     url  = "https://psyarxiv.com/hpq7w/download"
-)
-
-icon_link(
-    icon = "ai ai-osf",
-    text = "Repo",
-    url  = "https://osf.io/2qesh/"
 )
 
 icon_link(
@@ -1177,12 +1177,12 @@ icon_link(
 First author: 9
 
 * Highlights  (all first author)
-  + Psychological Methods: 3
+  + Psychological Methods: 3 (including 1 solo author)
   + Multivariate Behavioral Research: 2
-  + Behavior Research Methods: 1
-  + Psychometrika: 1
-  + Journal of Open-Source Software: 1
-  + R Journal: 1
+  + Behavior Research Methods: 1 (solo author)
+  + Psychometrika: 1 (solo author)
+  + Journal of Open-Source Software: 1 (solo author)
+  + R Journal: 1 (solo author)
 
 <font size="2"> (note: status provided below.)</font> 
 
@@ -1210,6 +1210,7 @@ The code to reproduce the analyses is on GitHub.
   doi = {10.31234/osf.io/9vkqy}
 }
 ```
+
 ```{r, echo=FALSE}
 icon_link(
     icon = "fa fa-file-pdf",
@@ -1227,5 +1228,73 @@ icon_link(
     icon = "fab fa-github",
     text = "Package",
     url  = "https://github.com/donaldRwilliams/blsmeta"
+)
+```
+
+
+<hr style="width:35%;text-align:left;margin-left:15">  
+
+**Williams, D. R.** (2021). Many Mixture Components, Oh My: Extending 
+the Spike and Slab to Bayesian Hypothesis Testing with Multinoulli 
+Indicators. *PsyArXiv*. `r doi("10.31234/osf.io/xcvby")`
+
+*Behavior Research Methods*: submitted
+
+```
+@article{,
+  title={Many Mixture Components, Oh My: Extending the 
+         Spike and Slab to Bayesian Hypothesis Testing 
+         with Multinoulli Indicators},
+  author={Williams, Donald R},
+  year={2021},
+  publisher={PsyArXiv},
+  doi = {10.31234/osf.io/xcvby}
+}
+```
+
+
+```{r, echo=FALSE}
+icon_link(
+    icon = "fa fa-file-pdf",
+    text = "PDF",
+    url  = "https://psyarxiv.com/xcvby/download"
+)
+```
+
+
+<hr style="width:35%;text-align:left;margin-left:15">  
+
+**Williams, D. R.** (2021). GGMnonreg: Non-Regularized Gaussian 
+Graphical Models in R. `r doi("10.31234/osf.io/p5jk9")`.
+
+
+```
+@article{,
+  title={GGMnonreg: Non-Regularized Gaussian Graphical Models in R},
+  author={Williams, Donald R},
+  year={2021},
+  article={PsyArXiv},
+  doi={10.31234/osf.io/p5jk9}
+}
+```
+
+
+```{r, echo=FALSE}
+icon_link(
+    icon = "fa fa-file-pdf",
+    text = "PDF",
+    url  = "https://psyarxiv.com/p5jk9/download"
+)
+
+icon_link(
+    icon = "fas fa-external-link-alt",
+    text = "CRAN",
+    url  = "https://cran.r-project.org/web/packages/GGMnonreg/index.html"
+)
+
+icon_link(
+    icon = "fab fa-github",
+    text = "GitHub",
+    url  = "https://github.com/donaldRwilliams/GGMnonreg"
 )
 ```
