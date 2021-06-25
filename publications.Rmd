@@ -21,12 +21,12 @@ library(distilltools)
 library(metathis)
 meta() %>%
   meta_description(
-    "Open-Source Software"
+    "Publications"
   ) %>%
   meta_name("github-repo" = "donaldRwilliams/donaldRwilliams.github.io") %>%
   meta_viewport() %>%
   meta_social(
-    title = "DRW: Software",
+    title = "DRW: Publications",
     url = "https://donaldrwilliams.github.io/publications.html",
     image = "https://donaldrwilliams.github.io/images/pub_preview.png",
     image_alt = "A photo of DRW",
