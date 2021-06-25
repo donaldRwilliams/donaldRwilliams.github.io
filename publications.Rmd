@@ -49,6 +49,17 @@ source("R/functions.R")
 
 
 ## Peer-Reviewed
+
+First author: 16 (with several in review. see pre-prints)
+
+* Highlights  
+  + Psychological Methods: 3 (including 1 solo-author)
+  + Multivariate Behavioral Research: 2 (including 1 solo-author)
+  + Behavior Research Methods: 2
+  + Journal of Mathematical Psychology: 1
+
+<hr style="width:35%;text-align:left;margin-left:15">  
+
 ### 2021
 **Williams, D. R.** (in press). Learning to Live with Sampling Variability: 
 Expected Replicability in Partial Correlation Networks. *Psychological Methods*.
@@ -930,7 +941,7 @@ on symptoms of schizophrenia: a multivariate Bayesian meta-analysis. *Psychoneur
 
 
 ```
-@article{williams2017effects,
+@article{,
   title={Effects of intranasal oxytocin on symptoms of 
          schizophrenia: A multivariate Bayesian 
          meta-analysis},
@@ -956,3 +967,167 @@ icon_link(
     url  = "https://osf.io/6pyfu/"
 )
 ```
+
+
+<hr style="width:35%;text-align:left;margin-left:15">  
+
+Burkner, P. C., **Williams, D. R.**$^*$, Simmons, T. C., & Woolley, J. D. 
+(2017). Intranasal oxytocin may improve high-level social cognition 
+in Schizophrenia, but not social cognition or neurocognition in
+general: a multilevel bayesian meta-analysis. *Schizophrenia Bulletin*, 
+43(6), 1291-1303. `r doi("10.1093/schbul/sbx053")``
+
+$^*$ shared 1st authorship
+
+
+```
+@article{,
+  title={Intranasal oxytocin may improve high-level social 
+         cognition in schizophrenia, but not social cognition 
+         or neurocognition in general: a multilevel bayesian 
+         meta-analysis},
+  author={B{\"u}rkner, Paul-Christian and Williams, 
+         Donald R and Simmons, Trenton C and Woolley, Josh D},
+  journal={Schizophrenia Bulletin},
+  volume={43},
+  number={6},
+  pages={1291--1303},
+  year={2017},
+  doi={10.1093/schbul/sbx053}
+}
+```
+
+```{r, echo=FALSE}
+icon_link(
+    icon = "fa fa-file-pdf",
+    text = "PDF",
+    url  = "https://osf.io/2a4yt/"
+)
+
+icon_link(
+    icon = "ai ai-osf",
+    text = "Repo",
+    url  = "https://osf.io/rn6vj/"
+)
+```
+
+
+<hr style="width:35%;text-align:left;margin-left:15">  
+
+**Williams, D. R.**, & Burkner, P. C. (2017). Data extraction and 
+statistical errors: A quantitative critique of Gumley, 
+Braehler, and Macbeth (2014). *British Journal of Clinical 
+Psychology*, 56(2), 208-211. `r doi("10.1111/bjc.12130")`
+
+```
+@article{,
+  title={Data extraction and statistical errors: 
+         A quantitative critique of Gumley, 
+         Braehler, and Macbeth (2014)},
+  author={Williams, Donald R and B{\"u}rkner, Paul-Christian},
+  journal={British Journal of Clinical Psychology},
+  volume={56},
+  number={2},
+  pages={208--211},
+  year={2017},
+  doi = {10.1111/bjc.12130}
+}
+```
+
+
+```{r, echo=FALSE}
+icon_link(
+    icon = "fa fa-file-pdf",
+    text = "PDF",
+    url  = "https://osf.io/bw2ce/download"
+)
+
+icon_link(
+    icon = "ai ai-osf",
+    text = "Repo",
+    url  = "https://osf.io/bw2ce/"
+)
+```
+
+<hr style="width:35%;text-align:left;margin-left:15">  
+
+Carlsson, R., Schimmack, U., **Williams, D. R.**, & Burkner, P. C. (2017).
+Bayes factors from pooled data are no substitute for 
+Bayesian meta-Analysis: commentary on Scheibehenne, Jamil, 
+and Wagenmakers (2016). *Psychological science*, 28(11), 1694-1697.
+`r doi("10.1177/0956797616684682")``
+
+```
+@article{,
+  title={Bayes factors from pooled data are no substitute 
+         for Bayesian meta-analysis: Commentary on Scheibehenne, 
+         Jamil, and Wagenmakers (2016)},
+  author={Carlsson, Rickard and Schimmack, 
+          Ulrich and Williams, Donald R and B{\"u}rkner, 
+          Paul-Christian},
+  journal={Psychological Science},
+  volume={28},
+  number={11},
+  pages={1694--1697},
+  year={2017},
+  doi={"10.1177/0956797616684682"}
+}
+```
+
+```{r, echo=FALSE}
+icon_link(
+    icon = "fa fa-file-pdf",
+    text = "PDF",
+    url  = "https://osf.io/axhsr/download"
+)
+
+icon_link(
+    icon = "ai ai-osf",
+    text = "Repo",
+    url  = "https://osf.io/6g9su/components?mode=&view_only="
+)
+```
+
+
+<hr style="width:35%;text-align:left;margin-left:15">  
+
+
+Maninger, N., Mendoza, S. P., **Williams, D. R.**, Mason, W. A., 
+Cherry, S. R., 
+Rowland, D. J., ... & Bales, K. L. (2017). Imaging, behavior and 
+endocrine analysis of "Jealousy" in a monogamous primate.
+*Frontiers in ecology and evolution*, 5, 119.
+`r doi("10.3389/fevo.2017.00119")`
+
+```
+@article{,
+  title={Imaging, behavior and endocrine analysis of 
+        “jealousy” in a monogamous primate},
+  author={Maninger, Nicole and Mendoza, Sally P and Williams, 
+          Donald R and Mason, William A and Cherry, Simon R 
+          and Rowland, Douglas J and Schaefer, Thomas and Bales, Karen L},
+  journal={Frontiers in ecology and evolution},
+  volume={5},
+  pages={119},
+  year={2017},
+  doi={10.3389/fevo.2017.00119}
+}
+```
+
+```{r, echo=FALSE}
+icon_link(
+    icon = "fa fa-file-pdf",
+    text = "PDF",
+    url  = "https://www.frontiersin.org/articles/10.3389/fevo.2017.00119/pdf"
+)
+```
+
+
+<hr style="width:35%;text-align:left;margin-left:15">  
+
+Bales, K. L., del Razo, R. A., Conklin, Q. A., Hartman, S., 
+Mayer, H. S., Rogers, F. D., ... & Witczak, L. R. (2017). 
+Focus: Comparative medicine: Titi monkeys as a novel non-human 
+primate model for the neurobiology of pair bonding. 
+The Yale journal of biology and medicine, 90(3), 373.
+
