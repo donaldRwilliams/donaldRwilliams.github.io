@@ -52,17 +52,14 @@ source("R/functions.R")
 
 First author: 16 
 
-
-
 * Highlights  (all first author)
-
-<font size="2"> (note: 9 more are in review. see pre-prints)</font> 
-  
   + Psychological Methods: 3 (including 1 solo author)
   + Multivariate Behavioral Research: 2 (including 1 solo author)
   + Behavior Research Methods: 2
   + Journal of Mathematical Psychology: 1
 
+<font size="2"> (note: 9 first author manuscripts are in review. 
+see pre-prints.)</font> 
 
 <hr style="width:35%;text-align:left;margin-left:15">  
 
@@ -1173,19 +1170,59 @@ icon_link(
 ## Pre-Prints
 
 
-First author: X
-
-
+First author: 9
 
 * Highlights  (all first author)
+  + Psychological Methods: 3
+  + Multivariate Behavioral Research: 2
+  + Behavior Research Methods: 1
+  + Psychometrika: 1
+  + Journal of Open-Source Software: 1
+  + R Journal: 1
 
-
+<font size="2"> (note: status provided below.)</font> 
 
 <hr style="width:35%;text-align:left;margin-left:15">
 
 ### 2021
 
-Williams, D. R., Rodriguez, J. E., & Burkner, P. (2021). Putting Variation into Variance:
-Modeling Between-Study Heterogeneity in Meta-Analysis. PsyArXiv
+**Williams, D. R.**, Rodriguez, J. E., & Burkner, P. (2021). 
+Putting Variation into Variance: Modeling Between-Study 
+Heterogeneity in Meta-Analysis. *PsyArXiv*. 
+`r doi("10.31234/osf.io/9vkqy")`
 
 *Psychological Methods*: submitted
+
+The code to reproduce the analyses is on GitHub.
+
+
+```
+@article{,
+  title={Putting Variation into Variance: Modeling Between-Study 
+         Heterogeneity in Meta-Analysis},
+  author={Williams, Donald R and Rodriguez, Josue E and 
+          B{\"u}rkner, Paul-Christian},
+  year={2021},
+  journal={PsyArXiv},
+  doi = {10.31234/osf.io/9vkqy}
+}
+```
+```{r, echo=FALSE}
+icon_link(
+    icon = "fa fa-file-pdf",
+    text = "PDF",
+    url  = "https://psyarxiv.com/9vkqy/download"
+)
+
+icon_link(
+    icon = "fab fa-github",
+    text = "Repo",
+    url  = "https://github.com/donaldRwilliams/putting_variance_blsmeta"
+)
+
+icon_link(
+    icon = "fab fa-github",
+    text = "Package",
+    url  = "https://github.com/donaldRwilliams/blsmeta"
+)
+```
