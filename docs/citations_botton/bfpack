@@ -1,0 +1,11 @@
+@article{mulder2019bfpack,
+  title={BFpack: Flexible bayes factor testing 
+         of scientific theories in r},
+  author={Mulder, Joris and Gu, Xin and Olsson-Collentine, 
+          Anton and Tomarken, Andrew and B{\"o}ing-Messing, 
+          Florian and Hoijtink, Herbert and Meijerink, Marlyne 
+          and Williams, Donald R and Menke, Janosch and Fox, 
+          Jean-Paul and others},
+  journal={arXiv preprint arXiv:1911.07728},
+  year={2019}
+}

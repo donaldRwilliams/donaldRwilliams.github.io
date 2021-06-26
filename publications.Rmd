@@ -208,20 +208,6 @@ Mulder, J., **Williams, D. R.**, Gu, X., Olsson-Collentine, A., Tomarken, A.,
 Boing-Messing, F., Hoijtink, H., ... & van Lissa, C. (in press). BFpack: Flexible bayes factor testing of scientific theories
 in R. *Journal of Statistical Software*.
 
-```
-@article{mulder2019bfpack,
-  title={BFpack: Flexible bayes factor testing 
-         of scientific theories in r},
-  author={Mulder, Joris and Gu, Xin and Olsson-Collentine, 
-          Anton and Tomarken, Andrew and B{\"o}ing-Messing, 
-          Florian and Hoijtink, Herbert and Meijerink, Marlyne 
-          and Williams, Donald R and Menke, Janosch and Fox, 
-          Jean-Paul and others},
-  journal={arXiv preprint arXiv:1911.07728},
-  year={2019}
-}
-```
-
 ```{r, echo=FALSE}
 icon_link(
     icon = "fa fa-file-pdf",
@@ -241,6 +227,12 @@ icon_link(
     url  = "https://github.com/jomulder/BFpack"
 )
 
+
+icon_link(
+    icon = 'fas fa-file-code',
+    text = "BibTex",
+    url  = "https://github.com/donaldRwilliams/donaldRwilliams.github.io/raw/main/citations_botton/bf_pack"
+)
 ```
 
 <hr style="width:35%;text-align:left;margin-left:15">  
