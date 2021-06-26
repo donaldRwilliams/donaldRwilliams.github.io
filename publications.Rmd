@@ -67,16 +67,16 @@ see pre-prints.)</font>
 **Williams, D. R.** (in press). Learning to Live with Sampling Variability: 
 Expected Replicability in Partial Correlation Networks. *Psychological Methods*.
 
-```
-@article{,
-  title={Learning to live with sampling variability: Expected 
-         replicability in partial correlation networks},
-  author={Williams, Donald R},
-  year={2020},
-  journal={PsyArXiv},
-  doi={10.31234/osf.io/fb4sa}
-}
-```
+<!-- ``` -->
+<!-- @article{, -->
+<!--   title={Learning to live with sampling variability: Expected  -->
+<!--          replicability in partial correlation networks}, -->
+<!--   author={Williams, Donald R}, -->
+<!--   year={2020}, -->
+<!--   journal={PsyArXiv}, -->
+<!--   doi={10.31234/osf.io/fb4sa} -->
+<!-- } -->
+<!-- ``` -->
 
 ```{r, echo=FALSE}
 icon_link(
@@ -101,6 +101,13 @@ icon_link(
     icon = "fab fa-github",
     text = "GitHub",
     url  = "https://github.com/donaldRwilliams/GGMnonreg"
+)
+
+
+icon_link(
+    icon = "fas fa-external-link-alt",
+    text = "BibTex",
+    url  = "https://raw.githubusercontent.com/donaldRwilliams/donaldRwilliams.github.io/main/citations_botton/bibtex"
 )
 ```
 
