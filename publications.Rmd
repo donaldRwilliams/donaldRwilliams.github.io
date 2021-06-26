@@ -107,26 +107,6 @@ icon_link(
 **Williams, D. R.** (2021) Bayesian Estimation for Gaussian Graphical Models: 
 Structure Learning, Predictability, and Network Comparisons, Multivariate Behavioral Research, 56:2, 336-352,  `r doi("10.1080/00273171.2021.1894412")` 
 
-<!-- ``` -->
-<!-- @article{, -->
-<!--   title={Bayesian estimation for Gaussian graphical models:  -->
-<!--          Structure learning, predictability, and network comparisons}, -->
-<!--   author={Williams, Donald R}, -->
-<!--   journal={Multivariate Behavioral Research}, -->
-<!--   volume={56}, -->
-<!--   number={2}, -->
-<!--   pages={336--352}, -->
-<!--   year={2021}, -->
-<!--   publisher={Taylor \& Francis}, -->
-<!--   doi = {10.1080/00273171.2021.1894412} -->
-<!-- } -->
-<!-- ``` -->
-
-<!-- icon_link( -->
-<!--     icon = "ai ai-osf", -->
-<!--     text = "Repo", -->
-<!--     url  = "https://osf.io/k9mv2/" -->
-<!--   ) -->
 
 ```{r, echo=FALSE}
 icon_link(
@@ -158,32 +138,12 @@ icon_link(
     text = "BibTex",
     url  = "https://scholar.googleusercontent.com/scholar.bib?q=info:6men8C5zKN4J:scholar.google.com/&output=citation&scisdr=CgXiaix6EJfVrFFHiJE:AAGBfm0AAAAAYNdBkJGMzAwZCZ3W0KiEL4vXOpTI5_xW&scisig=AAGBfm0AAAAAYNdBkKumuI3vlf0RqpJCE7oNHDC0Lu3d&scisf=4&ct=citation&cd=-1&hl=en"
 )
-
 ```
 
 <hr style="width:35%;text-align:left;margin-left:15">  
 
 **Williams, D. R.**, Martin, S. R., & Rast, P. (in press). Putting the Individual into Reliability: Bayesian Testing of Homogeneous Within-Person Variance in Hierarchical Models. *Behavior Research Methods*.
 
-
-```
-@article{,
-  title={Putting the individual into reliability: 
-         Bayesian testing of homogeneous within-person 
-         variance in hierarchical models},
-  author={Williams, Donald R and Martin, Stephen R and 
-          Rast, Philippe},
-  year={2019},
-  publisher={PsyArXiv},
-  doi={10.31234/osf.io/hpq7w}
-}
-```
-
-<!-- icon_link( -->
-<!--     icon = "ai ai-osf", -->
-<!--     text = "Repo", -->
-<!--     url  = "https://osf.io/2qesh/" -->
-<!-- ) -->
 
 ```{r, echo=FALSE}
 icon_link(
@@ -203,16 +163,22 @@ icon_link(
     text = "GitHub",
     url  = "https://github.com/donaldRwilliams/vICC"
 )
+
+icon_link(
+    icon = 'fas fa-file-code',
+    text = "BibTex",
+    url  = "https://scholar.googleusercontent.com/scholar.bib?q=info:_HD0mf1Pz5YJ:scholar.google.com/&output=citation&scisdr=CgXiaix6EJfVrFFFMfc:AAGBfm0AAAAAYNdDKfewztK0sEA3j-8YZ2JsU0fzKpYo&scisig=AAGBfm0AAAAAYNdDKU1VnG71jsQBM9i_4HZrqIiPyGOZ&scisf=4&ct=citation&cd=-1&hl=en"
+)
+
 ```
 
 
 <hr style="width:35%;text-align:left;margin-left:15">  
 
 **Williams, D. R.**, Liu, S., Martin, S. R., & Rast, P. (2021). Bayesian 
-Multivariate Mixed-Effects Location Scale Modeling of Longitudinal Relations among 
-Affective 
-Traits, States, and Physical Activity.
-European Journal of Psychological Assessment. 36 (6). `r doi("10.1027/1015-5759/a000624")`
+Multivariate Mixed-Effects Location Scale Modeling of Longitudinal Relations 
+among Affective Traits, States, and Physical Activity. European Journal 
+of Psychological Assessment. 36 (6). `r doi("10.1027/1015-5759/a000624")`
 
 ```
 @article{,
