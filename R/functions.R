@@ -1,3 +1,7 @@
+# from John Paul Helveston
+# https://github.com/jhelvy/jhelvy.com
+# https://www.jhelvy.com/
+
 library(htmltools)
 
 aside <- function(text) {
