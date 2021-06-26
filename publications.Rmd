@@ -1380,3 +1380,132 @@ icon_link(
     url  = "https://osf.io/yz5u9/"
 )
 ```
+
+
+<hr style="width:35%;text-align:left;margin-left:15">  
+
+Rodriguez, J. E., **Williams, D. R.**, & Rast, P. (2021). Who Is 
+and Is Not "Average"?  Random Effects Selection 
+with Spike-and-Slab Priors. *PsyArXiv*. `r doi("10.31234/osf.io/4d9tv")`
+
+*Psychological Methods*: in review
+
+```
+@article{,
+  title={Who Is and Is Not" Average'"? Random Effects 
+         Selection with Spike-and-Slab Priors},
+  author={Rodriguez, Josue E and Williams, Donald R 
+  and Rast, Philippe},
+  year={2021},
+  journal={PsyArXiv},
+  doi={10.31234/osf.io/4d9tv}
+}
+
+```
+
+```{r, echo=FALSE}
+icon_link(
+    icon = "fa fa-file-pdf",
+    text = "PDF",
+    url  = "https://psyarxiv.com/4d9tv/download"
+)
+
+icon_link(
+    icon = "ai ai-osf",
+    text = "Repo",
+    url  = "https://osf.io/n2z49/"
+)
+```
+
+
+
+<hr style="width:35%;text-align:left;margin-left:15">  
+
+Rodriguez, J. E., & **Williams, D. R.** (2021). Painless 
+Posterior Sampling: Bayesian Bootstrapped Correlation 
+Coefficients. *PsyArXiv*. `r doi("10.31234/osf.io/v2chs")`
+
+*The Quantitative Methods for Psychology*: in review
+
+```
+@article{,
+  title={Painless Posterior Sampling: Bayesian 
+         Bootstrapped Correlation Coefficients},
+  author={Rodriguez, Josue E and Williams, Donald R},
+  year={2021},
+  journal={PsyArXiv},
+  doi={10.31234/osf.io/v2chs}
+}
+```
+
+
+
+
+
+```{r, echo=FALSE}
+icon_link(
+    icon = "fa fa-file-pdf",
+    text = "PDF",
+    url  = "https://psyarxiv.com/v2chs/download"
+)
+
+icon_link(
+    icon = "ai ai-osf",
+    text = "Repo",
+    url  = "https://osf.io/f8syz/"
+)
+
+icon_link(
+    icon = "fas fa-external-link-alt",
+    text = "CRAN",
+    url  = "https://cran.r-project.org/web/packages/BBcor/index.html"
+)
+
+icon_link(
+    icon = "fab fa-github",
+    text = "GitHub",
+    url  = "https://github.com/donaldRwilliams/BBcor"
+)
+```
+
+
+
+<hr style="width:35%;text-align:left;margin-left:15">  
+
+Jongerling, J., Epskamp, S., & **Williams, D. R.** (2021). 
+Bayesian Uncertainty Estimation for Gaussian Graphical Models 
+and Centrality Indices. *PsyArXiv*. `r doi("10.31234/osf.io/7kude")`
+
+
+*Multivariate Behavioral Research*: in revision
+
+```
+@article{jongerling2021bayesian,
+  title={Bayesian Uncertainty Estimation for Gaussian 
+         Graphical Models and Centrality Indices},
+  author={Jongerling, Joran and Epskamp, Sacha 
+  and Williams, Donald R},
+  year={2021},
+  journal={PsyArXiv},
+  doi={10.31234/osf.io/7kude}
+}
+```
+
+
+
+```{r, echo=FALSE}
+icon_link(
+    icon = "fa fa-file-pdf",
+    text = "PDF",
+    url  = "https://psyarxiv.com/7kude/download"
+)
+
+icon_link(
+    icon = "fab fa-github",
+    text = "GitHub",
+    url  = "https://github.com/JoranJ/BayesGGM"
+)
+
+```
+
+
