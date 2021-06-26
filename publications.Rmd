@@ -386,18 +386,7 @@ icon_link(
 **Williams, D. R.**, & Mulder, J. (2020). BGGM: Bayesian Gaussian Graphical 
 Models in R. Journal of Open Source Software, 5(51), 2111. `r doi("10.21105/joss.02111")`
 
-```
-@article{,
-  title={BGGM: Bayesian Gaussian Graphical Models in R},
-  author={Williams, Donald R and Mulder, Joris},
-  journal={Journal of Open Source Software},
-  volume={5},
-  number={51},
-  pages={2111},
-  year={2020},
-  doi={10.21105/joss.02111}
-}
-```
+
 
 ```{r, echo=FALSE}
 icon_link(
@@ -424,6 +413,12 @@ icon_link(
     text = "Website",
     url  = "https://donaldrwilliams.github.io/BGGM/"
 )
+
+icon_link(
+    icon = 'fas fa-file-code',
+    text = "BibTex",
+    url  = "https://github.com/donaldRwilliams/donaldRwilliams.github.io/raw/main/citations_botton/bggm_joss"
+)
 ```
 
 <hr style="width:35%;text-align:left;margin-left:15">  
@@ -431,17 +426,7 @@ icon_link(
 **Williams, D. R.**, & Burkner, P. (2020). Coding errors lead to unsupported conclusions: a critique of Hofmann et al. (2015). Meta-Psychology, 4.
 `r doi("10.15626/MP.2018.872")`.
 
-```
-@article{,
-  title={Coding errors lead to unsupported conclusions: 
-         a critique of Hofmann et al.(2015)},
-  author={Williams, Donald and B{\"u}rkner, Paul-Christian},
-  journal={Meta-Psychology},
-  volume={4},
-  year={2020},
-  doi={10.15626/MP.2018.872}
-}
-```
+
 
 ```{r, echo=FALSE}
 icon_link(
@@ -455,6 +440,12 @@ icon_link(
     text = "Repo",
     url  = "https://osf.io/kd3en/"
 )
+
+icon_link(
+    icon = 'fas fa-file-code',
+    text = "BibTex",
+    url  = "https://github.com/donaldRwilliams/donaldRwilliams.github.io/raw/main/citations_botton/coding_errors"
+)
 ```
 
 
@@ -463,16 +454,13 @@ icon_link(
 Briganti, G., **Williams, D. R.**, Mulder, J., & Linkowski, P. (2020). Bayesian network structure and predictability of autistic traits.
 *Psychological Reports*. `r doi("10.1177/0033294120978159")`.
 
-```
-@article{,
-  title={Bayesian network structure and predictability
-         of autistic traits},
-  author={Briganti, Giovanni and Williams, Donald R
-          and Mulder, Joris and Linkowski, Paul},
-  journal={Psychological Reports},
-  year={2020},
-  doi={10.1177/0033294120978159}
-}
+```{r, echo=FALSE}
+icon_link(
+    icon = 'fas fa-file-code',
+    text = "BibTex",
+    url  = "https://github.com/donaldRwilliams/donaldRwilliams.github.io/raw/main/citations_botton/bggm_autism"
+)
+
 ```
 
 <hr style="width:35%;text-align:left;margin-left:15">  
@@ -484,18 +472,7 @@ of Forbes, Wright, Markon, and Krueger.
 `r doi("10.1080/00273171.2020.1797460")`
 
 
-```
-@article{,
-  title={Sampling variability is not nonreplication: A Bayesian
-         reanalysis of Forbes, Wright, Markon, and Krueger},
-  author={Jones, Payton J and Williams, Donald R and McNally, Richard J},
-  journal={Multivariate Behavioral Research},
-  pages={1--7},
-  year={2020},
-  publisher={Taylor \& Francis},
-  doi={10.1080/00273171.2020.1797460}
-}
-```
+
 
 ```{r, echo=FALSE}
 icon_link(
@@ -509,6 +486,13 @@ icon_link(
     text = "Repo",
     url  = "https://osf.io/g5etn/"
 )
+
+icon_link(
+    icon = 'fas fa-file-code',
+    text = "BibTex",
+    url  = "https://github.com/donaldRwilliams/donaldRwilliams.github.io/raw/main/citations_botton/forbes_comment"
+)
+
 ```
 
 
@@ -519,19 +503,6 @@ frontier for studying within-person variability: Bayesian multivariate
 generalized autoregressive conditional heteroskedasticity models.
 *Psychological Methods*. `r doi("10.1037/met0000357")``
 
-
-```
-@article{,
-  title={A new frontier for studying within-person
-         variability: Bayesian multivariate generalized
-         autoregressive conditional heteroskedasticity
-         models.},
-  author={Rast, P and Martin, SR and Liu, S and Williams, DR},
-  journal={Psychological Methods},
-  year={2020},
-  doi = {10.1037/met0000357}
-}
-```
 
 ```{r, echo=FALSE}
 icon_link(
@@ -551,6 +522,13 @@ icon_link(
     text = "GitHub",
     url  = "https://github.com/ph-rast/bmgarch"
 )
+
+icon_link(
+    icon = 'fas fa-file-code',
+    text = "BibTex",
+    url  = "https://github.com/donaldRwilliams/donaldRwilliams.github.io/raw/main/citations_botton/pm_garch"
+)
+
 ```
 
 
