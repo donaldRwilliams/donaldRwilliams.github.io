@@ -1,0 +1,11 @@
+@article{,
+  title={Bayesian hypothesis testing for Gaussian graphical models: 
+         Conditional independence and order constraints},
+  author={Williams, Donald R and Mulder, Joris},
+  journal={Journal of Mathematical Psychology},
+  volume={99},
+  pages={102441},
+  year={2020},
+  publisher={Elsevier},
+  doi = {10.1016/j.jmp.2020.102441}
+}

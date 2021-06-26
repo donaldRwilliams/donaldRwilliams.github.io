@@ -1,0 +1,11 @@
+@article{,
+  title={Comparing Gaussian graphical models with the posterior 
+  predictive distribution and Bayesian model selection.},
+  author={Williams, DR and Rast, P and Pericchi, LR and Mulder, J},
+  journal={Psychological Methods},
+  volume={25},
+  number={5},
+  pages={653--672},
+  year={2020},
+  doi={10.1037/met0000254}
+}

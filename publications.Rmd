@@ -231,7 +231,7 @@ icon_link(
 icon_link(
     icon = 'fas fa-file-code',
     text = "BibTex",
-    url  = "https://github.com/donaldRwilliams/donaldRwilliams.github.io/raw/main/citations_botton/bf_pack"
+    url  = "https://github.com/donaldRwilliams/donaldRwilliams.github.io/raw/main/citations_botton/bfpack"
 )
 ```
 
@@ -246,19 +246,6 @@ relations with Bayesian mixed models. *Psychological Methods*.
 
 These analyses are reproduced at the GitHub repo.
 
-```
-@article{,
-  title={Beneath the surface: Unearthing within-person variability 
-         and mean relations with Bayesian mixed models.},
-  author={Williams, Donald R and Mulder, Joris and Rouder, 
-         Jeffrey N and Rast, Philippe},
-  journal={Psychological Methods},
-  year={2020},
-  publisher={American Psychological Association},
-  doi={10.1037/met0000270}
-}
-```
-
 ```{r, echo=FALSE}
 icon_link(
     icon = "fa fa-file-pdf",
@@ -271,6 +258,12 @@ icon_link(
     text = "GitHub",
     url  = "https://github.com/donaldRwilliams/hypMuVar"
 )
+
+icon_link(
+    icon = 'fas fa-file-code',
+    text = "BibTex",
+    url  = "https://github.com/donaldRwilliams/donaldRwilliams.github.io/raw/main/citations_botton/beneath"
+)
 ```
 
 
@@ -278,31 +271,11 @@ icon_link(
 
 **Williams, D. R.** & Joris Mulder. Bayesian Hypothesis Testing for Gaussian Graphical Models: Conditional Independence and Order Constraints. *Journal of Mathematical Psychology*, 99, 102441. `r doi("10.1016/j.jmp.2020.102441")``
 
-```
-@article{,
-  title={Bayesian hypothesis testing for Gaussian graphical models: 
-         Conditional independence and order constraints},
-  author={Williams, Donald R and Mulder, Joris},
-  journal={Journal of Mathematical Psychology},
-  volume={99},
-  pages={102441},
-  year={2020},
-  publisher={Elsevier},
-  doi = {10.1016/j.jmp.2020.102441}
-}
-```
-
 ```{r, echo=FALSE}
 icon_link(
     icon = "fa fa-file-pdf",
     text = "PDF",
     url  = "https://psyarxiv.com/ypxd8/download"
-)
-
-icon_link(
-    icon = "fas fa-external-link-alt",
-    text = "CRAN",
-    url  = "https://cran.r-project.org/web/packages/BGGM/index.html"
 )
 
 icon_link(
@@ -315,6 +288,12 @@ icon_link(
     icon = "fas fa-external-link-alt",
     text = "Website",
     url  = "https://donaldrwilliams.github.io/BGGM/"
+    )
+
+icon_link(
+    icon = 'fas fa-file-code',
+    text = "BibTex",
+    url  = "https://github.com/donaldRwilliams/donaldRwilliams.github.io/raw/main/citations_botton/net_hyp_jmp"
 )
 ```
 
@@ -326,19 +305,6 @@ Comparing Gaussian graphical models with the posterior predictive
 distribution and Bayesian model selection. *Psychological methods*.
 `r doi("10.1037/met0000254")``
 
-```
-@article{,
-  title={Comparing Gaussian graphical models with the posterior 
-  predictive distribution and Bayesian model selection.},
-  author={Williams, DR and Rast, P and Pericchi, LR and Mulder, J},
-  journal={Psychological Methods},
-  volume={25},
-  number={5},
-  pages={653--672},
-  year={2020},
-  doi={10.1037/met0000254}
-}
-```
 
 ```{r, echo=FALSE}
 icon_link(
@@ -360,15 +326,15 @@ icon_link(
 )
 
 icon_link(
-    icon = "fab fa-github",
-    text = "GitHub",
-    url  = "https://github.com/donaldRwilliams/BGGM"
-)
-
-icon_link(
     icon = "fas fa-external-link-alt",
     text = "Website",
     url  = "https://donaldrwilliams.github.io/BGGM/"
+)
+
+icon_link(
+    icon = 'fas fa-file-code',
+    text = "BibTex",
+    url  = "https://github.com/donaldRwilliams/donaldRwilliams.github.io/raw/main/citations_botton/ggm_compare"
 )
 ```
 
@@ -379,20 +345,7 @@ icon_link(
 partial correlation network methodology. *British Journal of Mathematical and Statistical Psychology*, 73(2), 187-212.  `r doi("10.1111/bmsp.12173")``
 
 
-```
-@article{,
-  title={Back to the basics: Rethinking partial correlation network 
-         methodology},
-  author={Williams, Donald R and Rast, Philippe},
-  journal={British Journal of Mathematical and Statistical Psychology},
-  volume={73},
-  number={2},
-  pages={187--212},
-  year={2020},
-  publisher={Wiley Online Library},
-  doi={10.1111/bmsp.12173}
-}
-```
+
 
 
 ```{r, echo=FALSE}
@@ -418,6 +371,12 @@ icon_link(
     icon = "fab fa-github",
     text = "GitHub",
     url  = "https://github.com/donaldRwilliams/GGMnonreg"
+)
+
+icon_link(
+    icon = 'fas fa-file-code',
+    text = "BibTex",
+    url  = "https://github.com/donaldRwilliams/donaldRwilliams.github.io/raw/main/citations_botton/back_to_basics"
 )
 ```
 
