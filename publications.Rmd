@@ -182,21 +182,6 @@ Multivariate Mixed-Effects Location Scale Modeling of Longitudinal Relations
 among Affective Traits, States, and Physical Activity. European Journal 
 of Psychological Assessment. 36 (6). `r doi("10.1027/1015-5759/a000624")`
 
-```
-@article{,
-  title={Bayesian Multivariate Mixed-Effects Location 
-         Scale Modeling of Longitudinal Relations among 
-         Affective Traits, States, and Physical Activity},
-  author={Williams, Donald R and Martin, Stephen R and Liu, 
-          Siwei and Rast, Philippe},
-  journal={European Journal of Psychological Assessment},
-  year={2021},
-  publisher={Hogrefe Publishing},
-  doi={10.1027/1015-5759/a000624}
-}
-```
-
-
 ```{r, echo=FALSE}
 icon_link(
     icon = "fa fa-file-pdf",
@@ -208,6 +193,12 @@ icon_link(
     icon = "ai ai-osf",
     text = "Repo",
     url  = "https://osf.io/3bmdh/"
+)
+
+icon_link(
+    icon = 'fas fa-file-code',
+    text = "BibTex",
+    url  = "https://github.com/donaldRwilliams/donaldRwilliams.github.io/raw/main/citations_botton/mv_melsm"
 )
 ```
 
