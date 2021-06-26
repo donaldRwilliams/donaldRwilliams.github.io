@@ -953,12 +953,13 @@ icon_link(
 First author: 9
 
 * Highlights  (all first author)
-  + Psychological Methods: 3 (including 1 single author)
+  
+  + R Journal: 1 (single author)
+  + **Psychometrika**: 1 (single author)
   + Multivariate Behavioral Research: 2
   + Behavior Research Methods: 1 (single author)
-  + Psychometrika: 1 (solo author)
   + Journal of Open-Source Software: 1 (single author)
-  + R Journal: 1 (solo author)
+  + **Psychological Methods**: 3 (including 1 single author)
 
 <font size="2"> (note: status provided below.)</font> 
 
