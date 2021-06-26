@@ -9,7 +9,7 @@ links:
   - label: '<i class="fab fa-twitter"></i> Twitter'
     url: https://twitter.com/wdonald_1985
   - label: '<i class="fas fa-envelope-open"></i> Email'
-    url: mailto:drwwiliams@ucdavis.edu
+    url: mailto:drwwilliams@ucdavis.edu
 base_url: https://donaldrwilliams.github.io/website/
 preview: "prev2.png"
 favicon: images/headphones.JPG
@@ -23,7 +23,31 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 source(file.path("R", "functions.R"))
+library(distilltools)
 ```
+
+
+```{r metathis, message=FALSE, warning=FALSE, include=FALSE}
+library(metathis)
+meta() %>%
+  meta_description(
+    "Personal Website"
+  ) %>%
+  meta_name("github-repo" = "donaldRwilliams/donaldRwilliams.github.io") %>%
+  meta_viewport() %>%
+  meta_social(
+    title = "DRW: Personal Website",
+    url = "https://donaldrwilliams.github.io/index.html",
+    image = "https://donaldrwilliams.github.io/images/donny_pic.png",
+    image_alt = "A photo of DRW",
+    og_type = "website",
+    og_author = c("Donald R. Williams"),
+    twitter_card_type = "summary",
+    twitter_creator = "@wdonald_1985"
+  )
+```
+
+
 
 I am a PhD student in quantitative psychology based at the 
 University of California, Davis.

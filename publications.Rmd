@@ -976,17 +976,6 @@ Heterogeneity in Meta-Analysis. *PsyArXiv*.
 The code to reproduce the analyses is on GitHub.
 
 
-```
-@article{,
-  title={Putting Variation into Variance: Modeling Between-Study 
-         Heterogeneity in Meta-Analysis},
-  author={Williams, Donald R and Rodriguez, Josue E and 
-          B{\"u}rkner, Paul-Christian},
-  year={2021},
-  journal={PsyArXiv},
-  doi = {10.31234/osf.io/9vkqy}
-}
-```
 
 ```{r, echo=FALSE}
 icon_link(
@@ -1005,6 +994,12 @@ icon_link(
     icon = "fab fa-github",
     text = "Package",
     url  = "https://github.com/donaldRwilliams/blsmeta"
+)
+
+icon_link(
+    icon = 'fas fa-file-code',
+    text = "BibTex",
+    url  = "https://github.com/donaldRwilliams/donaldRwilliams.github.io/raw/main/citations_botton/putting_variation"
 )
 ```
 
