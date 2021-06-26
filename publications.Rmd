@@ -58,6 +58,7 @@ First author: 16
   + Multivariate Behavioral Research: 2 (including 1 solo author)
   + Behavior Research Methods: 2
   + Journal of Mathematical Psychology: 1
+  + British Journal of Mathematical and Statistical Psychology: 1
 
 <font size="2"> (note: 9 first author manuscripts are in review. 
 see pre-prints.)</font> 
@@ -66,17 +67,6 @@ see pre-prints.)</font>
 ### 2021
 **Williams, D. R.** (in press). Learning to Live with Sampling Variability: 
 Expected Replicability in Partial Correlation Networks. *Psychological Methods*.
-
-<!-- ``` -->
-<!-- @article{, -->
-<!--   title={Learning to live with sampling variability: Expected  -->
-<!--          replicability in partial correlation networks}, -->
-<!--   author={Williams, Donald R}, -->
-<!--   year={2020}, -->
-<!--   journal={PsyArXiv}, -->
-<!--   doi={10.31234/osf.io/fb4sa} -->
-<!-- } -->
-<!-- ``` -->
 
 ```{r, echo=FALSE}
 icon_link(
@@ -105,9 +95,9 @@ icon_link(
 
 
 icon_link(
-    icon = "fas fa-external-link-alt",
+    icon = 'fas fa-file-code',
     text = "BibTex",
-    url  = "https://raw.githubusercontent.com/donaldRwilliams/donaldRwilliams.github.io/main/citations_botton/bibtex"
+    url  = "https://scholar.googleusercontent.com/scholar.bib?q=info:cfB4PFcHWHcJ:scholar.google.com/&output=citation&scisdr=CgXiaix6EJfVrFFHFSo:AAGBfm0AAAAAYNdBDSo9JXt62v_J_bBkRZJ7wA3zSfCK&scisig=AAGBfm0AAAAAYNdBDQdeOBMPxLjBMp_Zsv8Z6B3yD13w&scisf=4&ct=citation&cd=-1&hl=en"
 )
 ```
 
@@ -117,20 +107,20 @@ icon_link(
 **Williams, D. R.** (2021) Bayesian Estimation for Gaussian Graphical Models: 
 Structure Learning, Predictability, and Network Comparisons, Multivariate Behavioral Research, 56:2, 336-352,  `r doi("10.1080/00273171.2021.1894412")` 
 
-```
-@article{,
-  title={Bayesian estimation for Gaussian graphical models: 
-         Structure learning, predictability, and network comparisons},
-  author={Williams, Donald R},
-  journal={Multivariate Behavioral Research},
-  volume={56},
-  number={2},
-  pages={336--352},
-  year={2021},
-  publisher={Taylor \& Francis},
-  doi = {10.1080/00273171.2021.1894412}
-}
-```
+<!-- ``` -->
+<!-- @article{, -->
+<!--   title={Bayesian estimation for Gaussian graphical models:  -->
+<!--          Structure learning, predictability, and network comparisons}, -->
+<!--   author={Williams, Donald R}, -->
+<!--   journal={Multivariate Behavioral Research}, -->
+<!--   volume={56}, -->
+<!--   number={2}, -->
+<!--   pages={336--352}, -->
+<!--   year={2021}, -->
+<!--   publisher={Taylor \& Francis}, -->
+<!--   doi = {10.1080/00273171.2021.1894412} -->
+<!-- } -->
+<!-- ``` -->
 
 <!-- icon_link( -->
 <!--     icon = "ai ai-osf", -->
@@ -162,6 +152,13 @@ icon_link(
     text = "Website",
     url  = "https://donaldrwilliams.github.io/BGGM/"
 )
+
+icon_link(
+    icon = 'fas fa-file-code',
+    text = "BibTex",
+    url  = "https://scholar.googleusercontent.com/scholar.bib?q=info:6men8C5zKN4J:scholar.google.com/&output=citation&scisdr=CgXiaix6EJfVrFFHiJE:AAGBfm0AAAAAYNdBkJGMzAwZCZ3W0KiEL4vXOpTI5_xW&scisig=AAGBfm0AAAAAYNdBkKumuI3vlf0RqpJCE7oNHDC0Lu3d&scisf=4&ct=citation&cd=-1&hl=en"
+)
+
 ```
 
 <hr style="width:35%;text-align:left;margin-left:15">  
