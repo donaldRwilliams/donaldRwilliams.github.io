@@ -136,7 +136,7 @@ icon_link(
 icon_link(
     icon = 'fas fa-file-code',
     text = "BibTex",
-    url  = "https://scholar.googleusercontent.com/scholar.bib?q=info:6men8C5zKN4J:scholar.google.com/&output=citation&scisdr=CgXiaix6EJfVrFFHiJE:AAGBfm0AAAAAYNdBkJGMzAwZCZ3W0KiEL4vXOpTI5_xW&scisig=AAGBfm0AAAAAYNdBkKumuI3vlf0RqpJCE7oNHDC0Lu3d&scisf=4&ct=citation&cd=-1&hl=en"
+    url  = "https://scholar.googleusercontent.com/scholar.bib?q=info:6men8C5zKN4J:scholar.google.com/&output=citation&scisdr=CgXiaix6EJfVrFFeCQ8:AAGBfm0AAAAAYNdYEQ_fYQK3SVVqkcA61ivIzor4Uv-X&scisig=AAGBfm0AAAAAYNdYEViFalmHeSzyabWBQlWHJq8f2pby&scisf=4&ct=citation&cd=-1&hl=en"
 )
 ```
 
