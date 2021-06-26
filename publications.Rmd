@@ -54,11 +54,13 @@ href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons/css/academicons.min.css">
 First author: 16 
 
 * Highlights  (all first author)
-  + Psychological Methods: 3 (including 1 solo author)
-  + Multivariate Behavioral Research: 2 (including 1 solo author)
   + Behavior Research Methods: 2
   + Journal of Mathematical Psychology: 1
+  + Journal of Open-Source Software: 1 (single author)
+  + **Psychological Methods**: 3 (including 1 single author)
   + British Journal of Mathematical and Statistical Psychology: 1
+  + Multivariate Behavioral Research: 2 (including 1 single author)
+ 
 
 <font size="2"> (note: 9 first author manuscripts are in review. 
 see pre-prints.)</font> 
@@ -97,7 +99,7 @@ icon_link(
 icon_link(
     icon = 'fas fa-file-code',
     text = "BibTex",
-    url  = "https://scholar.googleusercontent.com/scholar.bib?q=info:cfB4PFcHWHcJ:scholar.google.com/&output=citation&scisdr=CgXiaix6EJfVrFFHFSo:AAGBfm0AAAAAYNdBDSo9JXt62v_J_bBkRZJ7wA3zSfCK&scisig=AAGBfm0AAAAAYNdBDQdeOBMPxLjBMp_Zsv8Z6B3yD13w&scisf=4&ct=citation&cd=-1&hl=en"
+    url  = "https://github.com/donaldRwilliams/donaldRwilliams.github.io/raw/main/citations_botton/net_enr"
 )
 ```
 
@@ -136,13 +138,13 @@ icon_link(
 icon_link(
     icon = 'fas fa-file-code',
     text = "BibTex",
-    url  = "https://scholar.googleusercontent.com/scholar.bib?q=info:6men8C5zKN4J:scholar.google.com/&output=citation&scisdr=CgXiaix6EJfVrFFeCQ8:AAGBfm0AAAAAYNdYEQ_fYQK3SVVqkcA61ivIzor4Uv-X&scisig=AAGBfm0AAAAAYNdYEViFalmHeSzyabWBQlWHJq8f2pby&scisf=4&ct=citation&cd=-1&hl=en"
+    url  = "https://github.com/donaldRwilliams/donaldRwilliams.github.io/raw/main/citations_botton/net_mbr_solo"
 )
 ```
 
 <hr style="width:35%;text-align:left;margin-left:15">  
 
-**Williams, D. R.**, Martin, S. R., & Rast, P. (in press). Putting the Individual into Reliability: Bayesian Testing of Homogeneous Within-Person Variance in Hierarchical Models. *Behavior Research Methods*.
+**Williams, D. R.**, Martin, S. R., & Rast, P. (in press). Putting the Individual into Reliability: Bayesian Testing of Homogeneous Within-Person Variance in Hierarchical Models. *Behavior Research Methods*. 
 
 
 ```{r, echo=FALSE}
@@ -167,7 +169,7 @@ icon_link(
 icon_link(
     icon = 'fas fa-file-code',
     text = "BibTex",
-    url  = "https://scholar.googleusercontent.com/scholar.bib?q=info:_HD0mf1Pz5YJ:scholar.google.com/&output=citation&scisdr=CgXiaix6EJfVrFFFMfc:AAGBfm0AAAAAYNdDKfewztK0sEA3j-8YZ2JsU0fzKpYo&scisig=AAGBfm0AAAAAYNdDKU1VnG71jsQBM9i_4HZrqIiPyGOZ&scisf=4&ct=citation&cd=-1&hl=en"
+    url  = "https://github.com/donaldRwilliams/donaldRwilliams.github.io/raw/main/citations_botton/net_mbr_solo"
 )
 
 ```
@@ -1146,11 +1148,11 @@ icon_link(
 First author: 9
 
 * Highlights  (all first author)
-  + Psychological Methods: 3 (including 1 solo author)
+  + Psychological Methods: 3 (including 1 single author)
   + Multivariate Behavioral Research: 2
-  + Behavior Research Methods: 1 (solo author)
+  + Behavior Research Methods: 1 (single author)
   + Psychometrika: 1 (solo author)
-  + Journal of Open-Source Software: 1 (solo author)
+  + Journal of Open-Source Software: 1 (single author)
   + R Journal: 1 (solo author)
 
 <font size="2"> (note: status provided below.)</font> 
