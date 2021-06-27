@@ -1,0 +1,9 @@
+@article{williams_2020,
+ title={GGMncv: Nonconvex Penalized Gaussian Graphical Models in R},
+ url={psyarxiv.com/6jz5m},
+ DOI={10.31234/osf.io/6jz5m},
+ journal={PsyArXiv},
+ author={Williams, Donald R},
+ year={2020},
+ month={Nov}
+}

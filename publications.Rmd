@@ -1236,3 +1236,102 @@ icon_link(
 ```
 
 
+
+<hr style="width:35%;text-align:left;margin-left:15">  
+
+### 2020
+
+**Williams, D. R.**, & Rodriguez, J. (2020). Why Overfitting is Not 
+(Usually) a Problem in Partial Correlation Networks. *PsyArXiv*.
+`r doi("10.31234/osf.io/8pr9b")``
+
+*Psychological Methods*: revision
+
+
+```{r, echo=FALSE}
+icon_link(
+    icon = "fa fa-file-pdf",
+    text = "PDF",
+    url  = "https://psyarxiv.com/8pr9b/download"
+)
+
+icon_link(
+    icon = 'fas fa-file-code',
+    text = "BibTex",
+    url  = "https://github.com/donaldRwilliams/donaldRwilliams.github.io/raw/main/citations_botton/overfitting"
+)
+```
+
+<hr style="width:35%;text-align:left;margin-left:15"> 
+
+
+**Williams, D. R.**, Martin, S. R., DeBolt, M., Oakes, L., & Rast, P. (2020). 
+A fine-tooth comb for measurement reliability: Predicting true 
+score and error variance in hierarchical models. *PsyArXiv*.
+`r doi("10.31234/osf.io/2ux7t")``
+
+*Multivariate Behavioral Research*: in review
+
+
+```{r, echo=FALSE}
+icon_link(
+    icon = "fa fa-file-pdf",
+    text = "PDF",
+    url  = "https://psyarxiv.com/2ux7t/download"
+)
+
+icon_link(
+    icon = "fab fa-github",
+    text = "GitHub",
+    url  = "https://github.com/stephensrmmartin/ICCier"
+)
+
+icon_link(
+    icon = 'fas fa-file-code',
+    text = "BibTex",
+    url  = "https://github.com/donaldRwilliams/donaldRwilliams.github.io/raw/main/citations_botton/finetooth"
+)
+
+```
+
+
+<hr style="width:35%;text-align:left;margin-left:15"> 
+
+
+**Williams, D. R.** (2020). GGMncv: Nonconvex Penalized Gaussian Graphical Models in R.
+*PsyArXiv*. `r doi("10.31234/osf.io/6jz5m")``
+
+*R Journal*: submitted
+
+
+```{r, echo=FALSE}
+icon_link(
+    icon = "fa fa-file-pdf",
+    text = "PDF",
+    url  = "https://psyarxiv.com/6jz5m/download"
+)
+
+
+icon_link(
+    icon = "fas fa-external-link-alt",
+    text = "CRAN",
+    url  = "https://cran.r-project.org/web/packages/GGMncv/index.html"
+)
+
+icon_link(
+    icon = "fab fa-github",
+    text = "GitHub",
+    url  = "https://github.com/donaldRwilliams/GGMncv"
+)
+
+icon_link(
+    icon = 'fas fa-file-code',
+    text = "BibTex",
+    url  = "https://github.com/donaldRwilliams/donaldRwilliams.github.io/raw/main/citations_botton/ggmncv"
+)
+
+```
+
+
+<!-- Williams, D. R. (2020). vICC: Varying Intraclass Correlation Coecients in R. PsyArXiv. -->
+<!-- Working paper -->
