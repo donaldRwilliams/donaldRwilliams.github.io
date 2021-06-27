@@ -1441,27 +1441,124 @@ icon_link(
 
 ## Working Papers
 
+### 2020
 
-<!-- Williams, D. R. (2020). vICC: Varying Intraclass Correlation Coecients in R. PsyArXiv. -->
-<!-- Working paper -->
+**Williams, D. R.** (2020). vICC: Varying Intraclass Correlation Coefficients in R. 
+*PsyArXiv*. `r doi("10.31234/osf.io/95de4")`.
 
-<!-- Rodriguez, J. E., Williams, D. R., Rast, P., & Mulder, J. (2020). On formalizing theoretical -->
-<!-- expectations: Bayesian testing of central structures in psychological networks. PsyArXiv. -->
-<!-- Working paper -->
 
-<!-- Martin, S. R., Williams, D. R., & Rast, P. (2019). Measurement invariance assessment with -->
-<!-- Bayesian hierarchical inclusion modeling. PsyArXiv. -->
-<!-- Working paper -->
+```{r, echo=FALSE}
+icon_link(
+    icon = "fa fa-file-pdf",
+    text = "PDF",
+    url  = "https://psyarxiv.com/95de4/download"
+)
 
-<!-- Williams, D. R., Piironen, J., Vehtari, A., & Rast, P. (2018). Bayesian estimation of Gaussian -->
-<!-- graphical models with predictive covariance selection. arXiv preprint -->
-<!-- Working paper -->
+icon_link(
+    icon = "fas fa-external-link-alt",
+    text = "CRAN",
+    url  = "https://cran.r-project.org/web/packages/vICC/index.html"
+)
 
-<!-- Williams, D. R., & Martin, S. R. (2017). Rethinking robust statistics with modern Bayesian -->
-<!-- methods. PsyArXiv. -->
+icon_link(
+    icon = "fab fa-github",
+    text = "GitHub",
+    url  = "https://github.com/donaldRwilliams/vICC"
+)
 
-<!-- Martin, S. R., & Williams, D. R. (2017). Outgrowing the Procrustean Bed of Normality: The -->
-<!-- Utility of Bayesian Modeling for Asymmetrical Data Analysis. PsyArXiv. -->
-<!-- Working paper -->
-<!-- <!-- Working paper -->
-<!-- --> 
+icon_link(
+    icon = 'fas fa-file-code',
+    text = "BibTex",
+    url  = "https://github.com/donaldRwilliams/donaldRwilliams.github.io/raw/main/citations_botton/vicc"
+)
+```
+
+
+
+<hr style="width:35%;text-align:left;margin-left:15"> 
+
+Rodriguez, J. E., **Williams, D. R.**, Rast, P., & Mulder, J. 
+(2020). On formalizing theoretical expectations: Bayesian testing
+of central structures in psychological networks. *PsyArXiv*.
+`r doi("10.31234/osf.io/zw7pf")`
+
+```{r, echo=FALSE}
+icon_link(
+    icon = "fa fa-file-pdf",
+    text = "PDF",
+    url  = "https://psyarxiv.com/zw7pf/download"
+)
+
+icon_link(
+    icon = "ai ai-osf",
+    text = "Repo",
+    url  = "https://osf.io/bh783/"
+)
+
+icon_link(
+    icon = 'fas fa-file-code',
+    text = "BibTex",
+    url  = "https://github.com/donaldRwilliams/donaldRwilliams.github.io/raw/main/citations_botton/formalizing"
+)
+```
+
+
+<hr style="width:35%;text-align:left;margin-left:15"> 
+
+### 2019
+
+Martin, S. R., **Williams, D. R.**, & Rast, P. (2019). 
+Measurement invariance assessment with
+Bayesian hierarchical inclusion modeling. *PsyArXiv*.
+`r doi("10.31234/osf.io/qbdjt")`
+
+```{r, echo=FALSE}
+icon_link(
+    icon = "fa fa-file-pdf",
+    text = "PDF",
+    url  = "https://psyarxiv.com/qbdjt/download"
+)
+
+icon_link(
+    icon = "fas fa-external-link-alt",
+    text = "CRAN",
+    url  = "https://cran.r-project.org/web/packages/MIRES/index.html"
+)
+
+icon_link(
+    icon = "fab fa-github",
+    text = "GitHub",
+    url  = "https://github.com/stephensrmmartin/MIRES"
+)
+
+icon_link(
+    icon = 'fas fa-file-code',
+    text = "BibTex",
+    url  = "https://github.com/donaldRwilliams/donaldRwilliams.github.io/raw/main/citations_botton/mi_inclusion"
+)
+```
+
+
+<hr style="width:35%;text-align:left;margin-left:15"> 
+
+### 2018
+
+**Williams, D. R.**, Piironen, J., Vehtari, A., & Rast, P. (2018).
+Bayesian estimation of Gaussian graphical models with predictive 
+covariance selection. *arXiv preprint*
+[arXiv:1801.05725v5](arXiv:1801.05725v5).
+
+<hr style="width:35%;text-align:left;margin-left:15"> 
+
+### 2017
+
+**Williams, D. R.**, & Martin, S. R. (2017). Rethinking robust 
+statistics with modern Bayesian
+methods. *PsyArXiv*. `r doi("10.31234/osf.io/vaw38")`.
+
+
+<hr style="width:35%;text-align:left;margin-left:15"> 
+
+Martin, S. R., & **Williams, D. R.** (2017). Outgrowing the 
+Procrustean Bed of Normality: The Utility of Bayesian Modeling for 
+Asymmetrical Data Analysis. *PsyArXiv*. `r doi("10.31234/osf.io/26m49")`
