@@ -1,0 +1,9 @@
+@article{williams_2020,
+ title={Beyond Lasso: A Survey of Nonconvex Regularization in Gaussian Graphical Models},
+ url={psyarxiv.com/ad57p},
+ DOI={10.31234/osf.io/ad57p},
+ journal={PsyArXiv},
+ author={Williams, Donald R},
+ year={2020},
+ month={Nov}
+}

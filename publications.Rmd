@@ -1333,5 +1333,81 @@ icon_link(
 ```
 
 
+<hr style="width:35%;text-align:left;margin-left:15"> 
+
+
+Williams, D. R. (2020). Beyond Lasso: A Survey of Nonconvex 
+Regularization in Gaussian Graphical Models. *PsyArXiv*.
+`r doi("10.31234/osf.io/ad57p")`
+
+*Psychometrika*: in review
+
+
+```{r, echo=FALSE}
+icon_link(
+    icon = "fa fa-file-pdf",
+    text = "PDF",
+    url  = "https://psyarxiv.com/ad57p/download"
+)
+
+icon_link(
+    icon = "ai ai-osf",
+    text = "Repo",
+    url  = "https://osf.io/mxku9/"
+)
+
+icon_link(
+    icon = "fas fa-external-link-alt",
+    text = "CRAN",
+    url  = "https://cran.r-project.org/web/packages/GGMncv/index.html"
+)
+
+icon_link(
+    icon = 'fas fa-file-code',
+    text = "BibTex",
+    url  = "https://github.com/donaldRwilliams/donaldRwilliams.github.io/raw/main/citations_botton/ggmncv"
+)
+
+```
+
+
+<hr style="width:35%;text-align:left;margin-left:15"> 
+
+
+Heck, D. W., Boehm, U., Boing-Messing, F., Burkner, P. C., Derks, 
+K., Dienes, Z., ... & Hoijtink, H. (2020). A Review of Applications 
+of the Bayes Factor in Psychological Research. *PsyArXiv*.
+
+*Psychological Methods*: in review
+
+
+
+```{r, echo=FALSE}
+icon_link(
+    icon = "fa fa-file-pdf",
+    text = "PDF",
+    url  = "https://psyarxiv.com/cu43g/download"
+)
+
+icon_link(
+    icon = "ai ai-osf",
+    text = "Repo",
+    url  = "https://osf.io/k9c5q/"
+)
+
+
+
+icon_link(
+    icon = 'fas fa-file-code',
+    text = "BibTex",
+    url  = "https://github.com/donaldRwilliams/donaldRwilliams.github.io/raw/main/citations_botton/bf_review"
+)
+
+```
+
 <!-- Williams, D. R. (2020). vICC: Varying Intraclass Correlation Coecients in R. PsyArXiv. -->
+<!-- Working paper -->
+
+<!-- Rodriguez, J. E., Williams, D. R., Rast, P., & Mulder, J. (2020). On formalizing theoretical -->
+<!-- expectations: Bayesian testing of central structures in psychological networks. PsyArXiv. -->
 <!-- Working paper -->
