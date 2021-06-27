@@ -1012,17 +1012,7 @@ Indicators. *PsyArXiv*. `r doi("10.31234/osf.io/xcvby")`
 
 *Behavior Research Methods*: in review
 
-```
-@article{,
-  title={Many Mixture Components, Oh My: Extending the 
-         Spike and Slab to Bayesian Hypothesis Testing 
-         with Multinoulli Indicators},
-  author={Williams, Donald R},
-  year={2021},
-  publisher={PsyArXiv},
-  doi = {10.31234/osf.io/xcvby}
-}
-```
+
 
 
 ```{r, echo=FALSE}
@@ -1030,6 +1020,12 @@ icon_link(
     icon = "fa fa-file-pdf",
     text = "PDF",
     url  = "https://psyarxiv.com/xcvby/download"
+)
+
+icon_link(
+    icon = 'fas fa-file-code',
+    text = "BibTex",
+    url  = "https://github.com/donaldRwilliams/donaldRwilliams.github.io/raw/main/citations_botton/many_mixtures"
 )
 ```
 
@@ -1041,15 +1037,7 @@ Graphical Models in R. *PsyArXiv*. `r doi("10.31234/osf.io/p5jk9")`.
 
 *Journal of Open-Source Software*: in review
 
-```
-@article{,
-  title={GGMnonreg: Non-Regularized Gaussian Graphical Models in R},
-  author={Williams, Donald R},
-  year={2021},
-  article={PsyArXiv},
-  doi={10.31234/osf.io/p5jk9}
-}
-```
+
 
 ```{r, echo=FALSE}
 icon_link(
@@ -1069,6 +1057,12 @@ icon_link(
     text = "GitHub",
     url  = "https://github.com/donaldRwilliams/GGMnonreg"
 )
+
+icon_link(
+    icon = 'fas fa-file-code',
+    text = "BibTex",
+    url  = "https://github.com/donaldRwilliams/donaldRwilliams.github.io/raw/main/citations_botton/ggmnonreg_joss"
+)
 ```
 
 
@@ -1084,20 +1078,6 @@ Correlation Networks. *PsyArXiv*.
 
 The code to reproduce the simulations is on GitHub.
 
-```
-@article{williams2021confidence,
-  title={The Confidence Interval that Wasn’t: Bootstrapped 
-         “Confidence Intervals” in L1-Regularized 
-         Partial Correlation Networks},
-  author={Williams, Donald R},
-  year={2021},
-  journal={PsyArXiv},
-  doi={10.31234/osf.io/kjh2f}
-}
-```
-
-
-
 ```{r, echo=FALSE}
 icon_link(
     icon = "fa fa-file-pdf",
@@ -1109,6 +1089,12 @@ icon_link(
     icon = "fab fa-github",
     text = "GitHub",
     url  = "https://github.com/donaldRwilliams/no_confidence_lasso"
+)
+
+icon_link(
+    icon = 'fas fa-file-code',
+    text = "BibTex",
+    url  = "https://github.com/donaldRwilliams/donaldRwilliams.github.io/raw/main/citations_botton/lasso_ci"
 )
 ```
 
@@ -1125,21 +1111,6 @@ in Partial Correlation Networks: A Bayesian Analysis.
 
 *Multivariate Behavioral Research*: in review
 
-```
-@article{,
-  title={On Accepting the Null Hypothesis of Conditional 
-         Independence in Partial Correlation Networks: 
-         A Bayesian Analysis},
-  author={Williams, Donald R and Briganti, 
-          Giovanni and Linkowski, Paul 
-          and Mulder, Joris},
-  year={2021},
-  journal={PsyArXiv},
-  doi={10.31234/osf.io/7uhx8}
-}
-```
-
-
 ```{r, echo=FALSE}
 icon_link(
     icon = "fa fa-file-pdf",
@@ -1152,6 +1123,12 @@ icon_link(
     text = "Repo",
     url  = "https://osf.io/yz5u9/"
 )
+
+icon_link(
+    icon = 'fas fa-file-code',
+    text = "BibTex",
+    url  = "https://github.com/donaldRwilliams/donaldRwilliams.github.io/raw/main/citations_botton/net_null"
+)
 ```
 
 
@@ -1163,18 +1140,7 @@ with Spike-and-Slab Priors. *PsyArXiv*. `r doi("10.31234/osf.io/4d9tv")`
 
 *Psychological Methods*: in review
 
-```
-@article{,
-  title={Who Is and Is Not" Average'"? Random Effects 
-         Selection with Spike-and-Slab Priors},
-  author={Rodriguez, Josue E and Williams, Donald R 
-  and Rast, Philippe},
-  year={2021},
-  journal={PsyArXiv},
-  doi={10.31234/osf.io/4d9tv}
-}
 
-```
 
 ```{r, echo=FALSE}
 icon_link(
@@ -1188,6 +1154,12 @@ icon_link(
     text = "Repo",
     url  = "https://osf.io/n2z49/"
 )
+
+icon_link(
+    icon = 'fas fa-file-code',
+    text = "BibTex",
+    url  = "https://github.com/donaldRwilliams/donaldRwilliams.github.io/raw/main/citations_botton/who_is_average"
+)
 ```
 
 
@@ -1199,21 +1171,6 @@ Posterior Sampling: Bayesian Bootstrapped Correlation
 Coefficients. *PsyArXiv*. `r doi("10.31234/osf.io/v2chs")`
 
 *The Quantitative Methods for Psychology*: in review
-
-```
-@article{,
-  title={Painless Posterior Sampling: Bayesian 
-         Bootstrapped Correlation Coefficients},
-  author={Rodriguez, Josue E and Williams, Donald R},
-  year={2021},
-  journal={PsyArXiv},
-  doi={10.31234/osf.io/v2chs}
-}
-```
-
-
-
-
 
 ```{r, echo=FALSE}
 icon_link(
@@ -1239,6 +1196,12 @@ icon_link(
     text = "GitHub",
     url  = "https://github.com/donaldRwilliams/BBcor"
 )
+
+icon_link(
+    icon = 'fas fa-file-code',
+    text = "BibTex",
+    url  = "https://github.com/donaldRwilliams/donaldRwilliams.github.io/raw/main/citations_botton/bbcor"
+)
 ```
 
 
@@ -1251,20 +1214,6 @@ and Centrality Indices. *PsyArXiv*. `r doi("10.31234/osf.io/7kude")`
 
 
 *Multivariate Behavioral Research*: in revision
-
-```
-@article{jongerling2021bayesian,
-  title={Bayesian Uncertainty Estimation for Gaussian 
-         Graphical Models and Centrality Indices},
-  author={Jongerling, Joran and Epskamp, Sacha 
-  and Williams, Donald R},
-  year={2021},
-  journal={PsyArXiv},
-  doi={10.31234/osf.io/7kude}
-}
-```
-
-
 
 ```{r, echo=FALSE}
 icon_link(
@@ -1279,6 +1228,11 @@ icon_link(
     url  = "https://github.com/JoranJ/BayesGGM"
 )
 
+icon_link(
+    icon = 'fas fa-file-code',
+    text = "BibTex",
+    url  = "https://github.com/donaldRwilliams/donaldRwilliams.github.io/raw/main/citations_botton/bayes_centrality"
+)
 ```
 
 
