@@ -1336,7 +1336,7 @@ icon_link(
 <hr style="width:35%;text-align:left;margin-left:15"> 
 
 
-Williams, D. R. (2020). Beyond Lasso: A Survey of Nonconvex 
+**Williams, D. R.** (2020). Beyond Lasso: A Survey of Nonconvex 
 Regularization in Gaussian Graphical Models. *PsyArXiv*.
 `r doi("10.31234/osf.io/ad57p")`
 
@@ -1405,9 +1405,63 @@ icon_link(
 
 ```
 
+
+<hr style="width:35%;text-align:left;margin-left:15"> 
+
+### 2018
+
+
+**Williams, D. R.**, Rast, P., & Burkner, P. C. (2018). Bayesian
+Meta-Analysis with Weakly Informative Prior Distributions. *PsyArXiv*.
+
+
+```{r, echo=FALSE}
+icon_link(
+    icon = "fa fa-file-pdf",
+    text = "PDF",
+    url  = "https://psyarxiv.com/7tbrm/"
+)
+
+icon_link(
+    icon = "ai ai-osf",
+    text = "Repo",
+    url  = "https://osf.io/9n4zp/"
+)
+
+icon_link(
+    icon = 'fas fa-file-code',
+    text = "BibTex",
+    url  = "https://github.com/donaldRwilliams/donaldRwilliams.github.io/raw/main/citations_botton/meta_weakly"
+)
+```
+
+
+<br>
+<br>
+
+## Working Papers
+
+
 <!-- Williams, D. R. (2020). vICC: Varying Intraclass Correlation Coecients in R. PsyArXiv. -->
 <!-- Working paper -->
 
 <!-- Rodriguez, J. E., Williams, D. R., Rast, P., & Mulder, J. (2020). On formalizing theoretical -->
 <!-- expectations: Bayesian testing of central structures in psychological networks. PsyArXiv. -->
 <!-- Working paper -->
+
+<!-- Martin, S. R., Williams, D. R., & Rast, P. (2019). Measurement invariance assessment with -->
+<!-- Bayesian hierarchical inclusion modeling. PsyArXiv. -->
+<!-- Working paper -->
+
+<!-- Williams, D. R., Piironen, J., Vehtari, A., & Rast, P. (2018). Bayesian estimation of Gaussian -->
+<!-- graphical models with predictive covariance selection. arXiv preprint -->
+<!-- Working paper -->
+
+<!-- Williams, D. R., & Martin, S. R. (2017). Rethinking robust statistics with modern Bayesian -->
+<!-- methods. PsyArXiv. -->
+
+<!-- Martin, S. R., & Williams, D. R. (2017). Outgrowing the Procrustean Bed of Normality: The -->
+<!-- Utility of Bayesian Modeling for Asymmetrical Data Analysis. PsyArXiv. -->
+<!-- Working paper -->
+<!-- <!-- Working paper -->
+<!-- --> 
