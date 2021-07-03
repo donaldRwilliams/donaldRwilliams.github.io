@@ -355,13 +355,13 @@ This data package provides open datasets from meta-analyses from different areas
 icon_link(
     icon = "fas fa-external-link-alt",
     text = "CRAN",
-    url  = "https://cran.r-project.org/web/packages/psychmetadata/index.html"
+    url  = "https://cran.r-project.org/web/packages/psymetadata/index.html"
 )
 
 icon_link(
     icon = "fab fa-github",
     text = "GitHub",
-    url  = "https://github.com/donaldRwilliams/psychmetadata"
+    url  = "https://github.com/josue-rodriguez/psymetadata"
 )
 ```
 
