@@ -48,9 +48,17 @@ meta() %>%
 ```
 
 
+# Welcome!
 
 I am a PhD student in quantitative psychology based at the 
-University of California, Davis.
+University of California, Davis. I have authored 28 peer-reviewed articles,
+16 of which are first-author, with topics including Gaussian graphical models 
+(a.k.a., networks), multilevel models with heterogeneous variance components, 
+meta-analysis, Bayesian inference, measurement reliability, predictive modeling,
+and regularization. Further, I am the author of 11 `R` packages (most implementing novel methodology). 
+
+Currently I am focusing on Bayesian Gaussian graphical models and Bayesian
+location-scale meta-analysis.
 
 
 <br>
