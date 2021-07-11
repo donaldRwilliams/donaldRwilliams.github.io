@@ -49,7 +49,7 @@ meta() %>%
 <!-- [I'm an inline-style link](https://www.google.com) -->
 
 
-# Welcome!
+## Welcome!
 
 I am a PhD student in quantitative psychology based at the 
 University of California, Davis. I have authored 28 peer-reviewed articles,
