@@ -49,18 +49,25 @@ meta() %>%
 <!-- [I'm an inline-style link](https://www.google.com) -->
 
 
-## Welcome!
+## Welcome
 
 I am a PhD student in quantitative psychology based at the 
 University of California, Davis. I have authored 28 peer-reviewed articles,
 16 of which are first-author, with topics including [Gaussian graphical models 
 (a.k.a., networks)](https://psycnet.apa.org/record/2020-12344-001?doi=1), [multilevel models with heterogeneous variance components](https://psycnet.apa.org/record/2020-33519-001), 
 [meta-analysis](https://www.sciencedirect.com/science/article/abs/pii/S0306453016302128), [Bayesian inference](https://www.sciencedirect.com/science/article/pii/S0022249620300821?casa_token=qYfiyj635T4AAAAA:IYufJ2ik53V0MRlJm7Vd5tzca_plYoX5ox9kISAJUMAAFcLElwKSg8JnEBF5zhYxtk1WsPZx), [measurement reliability](https://psyarxiv.com/hpq7w/), [predictive modeling](https://psyarxiv.com/8pr9b/),
-and [regularization](https://psyarxiv.com/ad57p/)^[The pre-print for each paper can be found in the [Publications](https://donaldrwilliams.github.io/publications.html) section.]. Further, I am the author of 
-11 `R` packages (see [Software](https://donaldrwilliams.github.io/software.html)). 
+and [regularization](https://psyarxiv.com/ad57p/)^[The pre-print for each paper can be found in the [Publications](https://donaldrwilliams.github.io/publications.html) section.]. Further, I am an author of 
+11 `R` packages (7 first-author, see [Software](https://donaldrwilliams.github.io/software.html)). 
 
 I am currently working on [Bayesian location-scale meta-analysis](https://github.com/donaldRwilliams/blsmeta) 
 and [Bayesian Gaussian graphical models](https://github.com/donaldRwilliams/BGGM).
+
+<br>
+
+### On the Job Market!
+I am currently on the job market, and considering academia and
+industry. Please email or message on Twitter if
+you are interested in hiring me.
 
 
 <br>
