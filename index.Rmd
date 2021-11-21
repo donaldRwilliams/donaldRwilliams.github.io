@@ -64,13 +64,6 @@ and [regularization](https://psyarxiv.com/ad57p/)^[The pre-print for each paper 
 I am currently working on [Bayesian location-scale meta-analysis](https://github.com/donaldRwilliams/blsmeta) 
 and [Bayesian Gaussian graphical models](https://github.com/donaldRwilliams/BGGM).
 
-<br>
-
-### On the Job Market!
-I am currently on the job market, and considering positions in both academia and
-industry. Please email or message me on Twitter if you think I am a good fit and
-are interested in hiring me.
-
 
 <br>
 <br>
